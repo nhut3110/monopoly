@@ -56,6 +56,11 @@ jobs:
           mv "$RUNNER_TEMP/templates/templates/"* ~/.local/share/godot/export_templates/4.4.1.stable/
       - name: Configure SDK and version
         run: python3 scripts/android_ci.py configure
+      - name: Install software graphics drivers
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb libgl1-mesa-dri mesa-vulkan-drivers libvulkan1
+          adb start-server
       - name: Import and test
         env:
           GODOT_BIN: /home/runner/.cache/godot-ci/godot
