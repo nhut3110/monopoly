@@ -59,7 +59,9 @@ jobs:
       - name: Import and test
         env:
           GODOT_BIN: /home/runner/.cache/godot-ci/godot
-        run: python3 scripts/check_game.py
+          GODOT_IMPORT_DISPLAY: '1'
+          LIBGL_ALWAYS_SOFTWARE: '1'
+        run: xvfb-run -a python3 scripts/check_game.py
       - name: Sign, export and verify APK
         env:
           KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
