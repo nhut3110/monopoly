@@ -1,0 +1,265 @@
+# Polyfork assets
+- Auto Repair Garage by Polyfork (https://polyfork.dev/asset/auto-repair-garage-b91464), CC BY 4.0
+- Classical Bank by Polyfork (https://polyfork.dev/asset/classical-bank-04954e), CC BY 4.0
+- Brick Church by Polyfork (https://polyfork.dev/asset/brick-church-322885), CC BY 4.0
+- Brownstone Row House by Polyfork (https://polyfork.dev/asset/brownstone-row-house-1b84fd), CC BY 4.0
+- Corner Shop by Polyfork (https://polyfork.dev/asset/corner-shop-5aec8c), CC BY 4.0
+- Corner Tenement by Polyfork (https://polyfork.dev/asset/corner-tenement-92fb62), CC BY 4.0
+- Department Store by Polyfork (https://polyfork.dev/asset/department-store-ffbd58), CC BY 4.0
+- Cast Iron Loft by Polyfork (https://polyfork.dev/asset/cast-iron-loft-b04b5a), CC BY 4.0
+- Movie Theater by Polyfork (https://polyfork.dev/asset/movie-theater-40eeef), CC BY 4.0
+- Office Tower by Polyfork (https://polyfork.dev/asset/office-tower-1538cc), CC BY 4.0
+- Parking Garage by Polyfork (https://polyfork.dev/asset/parking-garage-6e4f2c), CC BY 4.0
+- Postwar Apartment Slab by Polyfork (https://polyfork.dev/asset/postwar-apartment-slab-cee5f9), CC BY 4.0
+- Prewar Apartment House by Polyfork (https://polyfork.dev/asset/prewar-apartment-house-1081a6), CC BY 4.0
+- Public School by Polyfork (https://polyfork.dev/asset/public-school-19ade5), CC BY 4.0
+- Art Deco Setback Tower by Polyfork (https://polyfork.dev/asset/art-deco-setback-tower-b3a788), CC BY 4.0
+- One-Storey Shop Row by Polyfork (https://polyfork.dev/asset/one-storey-shop-row-83c958), CC BY 4.0
+- Brick Tenement by Polyfork (https://polyfork.dev/asset/brick-tenement-7d2014), CC BY 4.0
+- Narrow Walk-Up by Polyfork (https://polyfork.dev/asset/narrow-walk-up-41f10c), CC BY 4.0
+
+Board presentation uses uniformly scaled architectural miniatures and larger character tokens, intentionally stylized for board-game legibility rather than architectural scale.
+- Ramen Yatai Stall by Polyfork (https://polyfork.dev/asset/ramen-yatai-stall-53974b), CC BY 4.0
+- Vending Machine by Polyfork (https://polyfork.dev/asset/vending-machine-471c29), CC BY 4.0
+- Torii Gate by Polyfork (https://polyfork.dev/asset/torii-gate-402f30), CC BY 4.0
+- Guardian Lion Statue by Polyfork (https://polyfork.dev/asset/guardian-lion-statue-5bde18), CC BY 4.0
+- Red Post Box by Polyfork (https://polyfork.dev/asset/red-post-box-f12045), CC BY 4.0
+- Potted Shrub by Polyfork (https://polyfork.dev/asset/potted-shrub-43bd21), CC BY 4.0
+- City Bicycle by Polyfork (https://polyfork.dev/asset/city-bicycle-5b67d1), CC BY 4.0
+- Traffic Signal by Polyfork (https://polyfork.dev/asset/traffic-signal-2a517e), CC BY 4.0
+- Purification Basin by Polyfork (https://polyfork.dev/asset/purification-basin-93d3e5), CC BY 4.0
+- Stone Lantern by Polyfork (https://polyfork.dev/asset/stone-lantern-d56d0a), CC BY 4.0
+- Flower Planter by Polyfork (https://polyfork.dev/asset/flower-planter-550bfb), CC BY 4.0
+- Convex Traffic Mirror by Polyfork (https://polyfork.dev/asset/convex-traffic-mirror-a64d15), CC BY 4.0
+
+Corner Shophouse, Three-Storey Shophouse and Two-Storey Shophouse use native runtime material colour replacements corresponding to Polyfork's wall/tile/trim, tile/wall/pilaster and plaster/tile/base parameters. Geometry and dimensions are unchanged. The modified appearance is part of this game.
+- Corner Shophouse by Polyfork (https://polyfork.dev/asset/corner-shophouse-ad15c2), CC BY 4.0
+- Three-Storey Shophouse by Polyfork (https://polyfork.dev/asset/three-storey-shophouse-2f6378), CC BY 4.0
+- Two-Storey Shophouse by Polyfork (https://polyfork.dev/asset/two-storey-shophouse-183790), CC BY 4.0
+- Wide Shophouse by Polyfork (https://polyfork.dev/asset/wide-shophouse-089f20), CC BY 4.0
+- Convenience Store by Polyfork (https://polyfork.dev/asset/convenience-store-c30e1d), CC BY 4.0
+- Amusement Parlour by Polyfork (https://polyfork.dev/asset/amusement-parlour-7eb45f), CC BY 4.0
+- Small Shrine Hall by Polyfork (https://polyfork.dev/asset/small-shrine-hall-cb8b25), CC BY 4.0
+- Alley Bar Hut by Polyfork (https://polyfork.dev/asset/alley-bar-hut-3e41f8), CC BY 4.0
+- Cherry Blossom Tree by Polyfork (https://polyfork.dev/asset/cherry-blossom-tree-3f7ab7), CC BY 4.0
+- Street Lamp by Polyfork (https://polyfork.dev/asset/street-lamp-29f365), CC BY 4.0
+- Wooden Bench by Polyfork (https://polyfork.dev/asset/wooden-bench-661da4), CC BY 4.0
+- City Taxi by Polyfork (https://polyfork.dev/asset/city-taxi-eefa91), CC BY 4.0
+- Kei Van by Polyfork (https://polyfork.dev/asset/kei-van-211ed5), CC BY 4.0
+- Delivery Moped by Polyfork (https://polyfork.dev/asset/delivery-moped-1aa2ce), CC BY 4.0
+- Street Diner by Polyfork (https://polyfork.dev/asset/street-diner-40fc87), CC BY 4.0
+- Fire Station by Polyfork (https://polyfork.dev/asset/fire-station-e2b756), CC BY 4.0
+- Newsstand by Polyfork (https://polyfork.dev/asset/newsstand-6dfd65), CC BY 4.0
+- Street Sign Pole by Polyfork (https://polyfork.dev/asset/street-sign-pole-1e9551), CC BY 4.0
+- Salaryman Commuter by Polyfork (https://polyfork.dev/asset/salaryman-commuter-4170c1), CC BY 4.0
+- Shopkeeper by Polyfork (https://polyfork.dev/asset/shopkeeper-be5547), CC BY 4.0
+- School Student by Polyfork (https://polyfork.dev/asset/school-student-385134), CC BY 4.0
+- Delivery Courier by Polyfork (https://polyfork.dev/asset/delivery-courier-327e30), CC BY 4.0
+
+The following GLB meshes are used under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+- Beehive by Polyfork (https://polyfork.dev/asset/beehive-2e70bf), CC BY 4.0
+- Basket of Produce by Polyfork (https://polyfork.dev/asset/basket-of-produce-7420cf), CC BY 4.0
+- Barrel by Polyfork (https://polyfork.dev/asset/barrel-8d63c4), CC BY 4.0
+- Cargo Crate by Polyfork (https://polyfork.dev/asset/cargo-crate-9afc44), CC BY 4.0
+- Gabled Farmhouse by Polyfork (https://polyfork.dev/asset/gabled-farmhouse-c7534f), CC BY 4.0
+- Chicken Coop by Polyfork (https://polyfork.dev/asset/chicken-coop-371f97), CC BY 4.0
+- Open Stable by Polyfork (https://polyfork.dev/asset/open-stable-dbf2d5), CC BY 4.0
+- Greenhouse by Polyfork (https://polyfork.dev/asset/greenhouse-53ab6d), CC BY 4.0
+- Grain Silo by Polyfork (https://polyfork.dev/asset/grain-silo-58ca67), CC BY 4.0
+- Apple Tree by Polyfork (https://polyfork.dev/asset/apple-tree-ef0ba0), CC BY 4.0
+- Farmer by Polyfork (https://polyfork.dev/asset/farmer-304a43), CC BY 4.0
+- Shipwright Boat Shed by Polyfork (https://polyfork.dev/asset/shipwright-boat-shed-9cbbc1), CC BY 4.0
+- Fisherman Shack by Polyfork (https://polyfork.dev/asset/fisherman-shack-ea9b2b), CC BY 4.0
+- Dock Cargo Crane by Polyfork (https://polyfork.dev/asset/dock-cargo-crane-ccd97f), CC BY 4.0
+- Lookout Watchtower by Polyfork (https://polyfork.dev/asset/lookout-watchtower-f1a5ce), CC BY 4.0
+- Palm Tree by Polyfork (https://polyfork.dev/asset/palm-tree-a307da), CC BY 4.0
+- Rowboat by Polyfork (https://polyfork.dev/asset/rowboat-c42d85), CC BY 4.0
+- Treasure Chest by Polyfork (https://polyfork.dev/asset/treasure-chest-c2ac4f), CC BY 4.0
+- Pirate Captain by Polyfork (https://polyfork.dev/asset/pirate-captain-91f545), CC BY 4.0
+- Pirate Deckhand by Polyfork (https://polyfork.dev/asset/pirate-deckhand-98a6e7), CC BY 4.0
+- Naval Officer by Polyfork (https://polyfork.dev/asset/naval-officer-93027f), CC BY 4.0
+- Cove Trader by Polyfork (https://polyfork.dev/asset/cove-trader-0f94a6), CC BY 4.0
+
+- Amusement Park Entrance Arch by Polyfork (https://polyfork.dev/asset/amusement-park-entrance-arch-687549), CC BY 4.0
+- Striped River Lighthouse by Polyfork (https://polyfork.dev/asset/striped-river-lighthouse-90d74d), CC BY 4.0
+- Swan Pedal Boat by Polyfork (https://polyfork.dev/asset/swan-pedal-boat-8dc50b), CC BY 4.0
+- Ferris Wheel by Polyfork (https://polyfork.dev/asset/ferris-wheel-ca5b0b), CC BY 4.0
+- Carousel by Polyfork (https://polyfork.dev/asset/carousel-39cbc8), CC BY 4.0
+- Twin-Engine Piston Light Aircraft by Polyfork (https://polyfork.dev/asset/twin-engine-piston-light-f417c7), CC BY 4.0
+- Helicopter by Polyfork (https://polyfork.dev/asset/helicopter-9d1986), CC BY 4.0
+- Cove Tavern by Polyfork (https://polyfork.dev/asset/cove-tavern-5861a6), CC BY 4.0
+- Jolly Roger Pole by Polyfork (https://polyfork.dev/asset/jolly-roger-pole-803c5a), CC BY 4.0
+- Smuggler Cave Mouth by Polyfork (https://polyfork.dev/asset/smuggler-cave-mouth-69a07e), CC BY 4.0
+- Wrecked Hull Section by Polyfork (https://polyfork.dev/asset/wrecked-hull-section-ca6755), CC BY 4.0
+- Deck Cannon by Polyfork (https://polyfork.dev/asset/deck-cannon-17849e), CC BY 4.0
+- Pirate Galleon by Polyfork (https://polyfork.dev/asset/pirate-galleon-2e9aea), CC BY 4.0
+- Old Lighthouse by Polyfork (https://polyfork.dev/asset/old-lighthouse-48ca6c), CC BY 4.0
+- Pirate Sloop by Polyfork (https://polyfork.dev/asset/pirate-sloop-d8ead0), CC BY 4.0
+- Swivel Gun by Polyfork (https://polyfork.dev/asset/swivel-gun-e06c4e), CC BY 4.0
+- Red Barn by Polyfork (https://polyfork.dev/asset/red-barn-d41683), CC BY 4.0
+- Compact Tractor by Polyfork (https://polyfork.dev/asset/compact-tractor-35b84b), CC BY 4.0
+- Sunflower by Polyfork (https://polyfork.dev/asset/sunflower-80ce15), CC BY 4.0
+- Water Mill by Polyfork (https://polyfork.dev/asset/water-mill-b31972), CC BY 4.0
+- Stone Well by Polyfork (https://polyfork.dev/asset/stone-well-b2dfcd), CC BY 4.0
+- Cow by Polyfork (https://polyfork.dev/asset/cow-c61a66), CC BY 4.0
+- Windmill by Polyfork (https://polyfork.dev/asset/windmill-3aad49), CC BY 4.0
+- Hay Bale by Polyfork (https://polyfork.dev/asset/hay-bale-079e8c), CC BY 4.0
+- Sheep by Polyfork (https://polyfork.dev/asset/sheep-7b0187), CC BY 4.0
+- Country Station Building by Polyfork (https://polyfork.dev/asset/country-station-building-2d8f5e), CC BY 4.0
+- Tender Steam Locomotive by Polyfork (https://polyfork.dev/asset/tender-steam-locomotive-8e2a82), CC BY 4.0
+- Porch-Front Cottage by Polyfork (https://polyfork.dev/asset/porch-front-cottage-620c29), CC BY 4.0
+- Two-Storey Family House by Polyfork (https://polyfork.dev/asset/two-storey-family-house-c63c4a), CC BY 4.0
+- Modern Gable House by Polyfork (https://polyfork.dev/asset/modern-gable-house-ea0247), CC BY 4.0
+- Split-Level House by Polyfork (https://polyfork.dev/asset/split-level-house-40fe1a), CC BY 4.0
+- Chinese Hexagonal Pavilion by Polyfork (https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e), CC BY 4.0
+- Hotel by Polyfork (https://polyfork.dev/asset/hotel-b43f66), CC BY 4.0
+- Domed Church by Polyfork (https://polyfork.dev/asset/domed-church-dcbe85), CC BY 4.0
+- Vertical Farm Tower by Polyfork (https://polyfork.dev/asset/vertical-farm-tower-77d887), CC BY 4.0
+- Airport Hotel by Polyfork (https://polyfork.dev/asset/airport-hotel-1a1e0a), CC BY 4.0
+- City Bus by Polyfork (https://polyfork.dev/asset/city-bus-49fd97), CC BY 4.0
+- Railbus by Polyfork (https://polyfork.dev/asset/railbus-e972f3), CC BY 4.0
+- Mainline Diesel Locomotive by Polyfork (https://polyfork.dev/asset/mainline-diesel-locomotive-33ef97), CC BY 4.0
+- Articulated Transit Bus by Polyfork (https://polyfork.dev/asset/articulated-transit-bus-6be725), CC BY 4.0
+- Windpump Tower by Polyfork (https://polyfork.dev/asset/windpump-tower-1633a9), CC BY 4.0
+- Fuel Farm Tank by Polyfork (https://polyfork.dev/asset/fuel-farm-tank-ed67f0), CC BY 4.0
+- Tool Shed by Polyfork (https://polyfork.dev/asset/tool-shed-f61f49), CC BY 4.0
+- Roadside Farm Stand by Polyfork (https://polyfork.dev/asset/roadside-farm-stand-e218ca), CC BY 4.0
+- Pumpkin Patch Farm Stand by Polyfork (https://polyfork.dev/asset/pumpkin-patch-farm-stand-5c30be), CC BY 4.0
+- Backyard Garden Shed by Polyfork (https://polyfork.dev/asset/backyard-garden-shed-38d79f), CC BY 4.0
+- Stilted Granary by Polyfork (https://polyfork.dev/asset/stilted-granary-3e7d7d), CC BY 4.0
+- Thatched Cottage by Polyfork (https://polyfork.dev/asset/thatched-cottage-0e63f5), CC BY 4.0
+- Single-Storey Ranch House by Polyfork (https://polyfork.dev/asset/single-storey-ranch-house-3880ea), CC BY 4.0
+- Crossing Keeper's Cottage by Polyfork (https://polyfork.dev/asset/crossing-keeper-s-cottage-de49a4), CC BY 4.0
+- Timber Barn by Polyfork (https://polyfork.dev/asset/timber-barn-90b3ce), CC BY 4.0
+- Alpine Hay Barn by Polyfork (https://polyfork.dev/asset/alpine-hay-barn-3965e5), CC BY 4.0
+- Livery Stable by Polyfork (https://polyfork.dev/asset/livery-stable-c01ee0), CC BY 4.0
+- Minka Farmhouse by Polyfork (https://polyfork.dev/asset/minka-farmhouse-680475), CC BY 4.0
+- Rammed-Earth Farmhouse by Polyfork (https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc), CC BY 4.0
+- Adobe Colonial Farmhouse by Polyfork (https://polyfork.dev/asset/adobe-colonial-farmhouse-cf13d8), CC BY 4.0
+- Two-Story House by Polyfork (https://polyfork.dev/asset/two-story-house-40f6dc), CC BY 4.0
+- Clapboard Church by Polyfork (https://polyfork.dev/asset/clapboard-church-03a6f5), CC BY 4.0
+- Village Tavern by Polyfork (https://polyfork.dev/asset/village-tavern-4e94e3), CC BY 4.0
+- Ox Cart by Polyfork (https://polyfork.dev/asset/ox-cart-c12bca), CC BY 4.0
+- Four-Wheel Wagon by Polyfork (https://polyfork.dev/asset/four-wheel-wagon-adb946), CC BY 4.0
+- Marigold Pickup by Polyfork (https://polyfork.dev/asset/marigold-pickup-f4b6f9), CC BY 4.0
+- Tank Steam Locomotive by Polyfork (https://polyfork.dev/asset/tank-steam-locomotive-314bb1), CC BY 4.0
+- Windmill Pump by Polyfork (https://polyfork.dev/asset/windmill-pump-2993a4), CC BY 4.0
+- Harbour Master's Hut by Polyfork (https://polyfork.dev/asset/harbour-master-s-hut-226f34), CC BY 4.0
+- Ice Cream Kiosk on Wheels by Polyfork (https://polyfork.dev/asset/ice-cream-kiosk-on-40a568), CC BY 4.0
+- Promenade Shelter by Polyfork (https://polyfork.dev/asset/promenade-shelter-788f46), CC BY 4.0
+- Seafront Toilet Block by Polyfork (https://polyfork.dev/asset/seafront-toilet-block-c3f643), CC BY 4.0
+- Lifeguard Tower by Polyfork (https://polyfork.dev/asset/lifeguard-tower-183c37), CC BY 4.0
+- Boathouse by Polyfork (https://polyfork.dev/asset/boathouse-cf20e6), CC BY 4.0
+- Cave House Front by Polyfork (https://polyfork.dev/asset/cave-house-front-ed6b36), CC BY 4.0
+- Cube House Module by Polyfork (https://polyfork.dev/asset/cube-house-module-a9b8e8), CC BY 4.0
+- Dock Warehouse by Polyfork (https://polyfork.dev/asset/dock-warehouse-bf0967), CC BY 4.0
+- Boat Shed by Polyfork (https://polyfork.dev/asset/boat-shed-74c94f), CC BY 4.0
+- Miner's Shack by Polyfork (https://polyfork.dev/asset/miner-s-shack-68b196), CC BY 4.0
+- Saloon by Polyfork (https://polyfork.dev/asset/saloon-6dda1c), CC BY 4.0
+- General Store by Polyfork (https://polyfork.dev/asset/general-store-a2187a), CC BY 4.0
+- Blacksmith Forge by Polyfork (https://polyfork.dev/asset/blacksmith-forge-09fa85), CC BY 4.0
+- Lighthouse Keeper's Cottage by Polyfork (https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33), CC BY 4.0
+- Blue-Domed Chapel by Polyfork (https://polyfork.dev/asset/blue-domed-chapel-297391), CC BY 4.0
+- Mole Lighthouse by Polyfork (https://polyfork.dev/asset/mole-lighthouse-c690b4), CC BY 4.0
+- Watchtower by Polyfork (https://polyfork.dev/asset/watchtower-140f78), CC BY 4.0
+- Tiered Bell Tower by Polyfork (https://polyfork.dev/asset/tiered-bell-tower-e1b706), CC BY 4.0
+- Ship's Longboat by Polyfork (https://polyfork.dev/asset/ship-s-longboat-f159fd), CC BY 4.0
+- Small Fishing Boat by Polyfork (https://polyfork.dev/asset/small-fishing-boat-4ac0e3), CC BY 4.0
+- Caique Fishing Boat by Polyfork (https://polyfork.dev/asset/caique-fishing-boat-262c24), CC BY 4.0
+- Pirate Brigantine by Polyfork (https://polyfork.dev/asset/pirate-brigantine-c29c57), CC BY 4.0
+- Pier Head Platform by Polyfork (https://polyfork.dev/asset/pier-head-platform-63662b), CC BY 4.0
+- Big Six Money Wheel by Polyfork (https://polyfork.dev/asset/big-six-money-wheel-0f7174), CC BY 4.0
+- Roulette Wheel by Polyfork (https://polyfork.dev/asset/roulette-wheel-f92631), CC BY 4.0
+
+## Additional models (CC BY 4.0)
+- Four-Wheel Wagon by Polyfork (https://polyfork.dev/asset/four-wheel-wagon-adb946), CC BY 4.0
+- Articulated Transit Bus by Polyfork (https://polyfork.dev/asset/articulated-transit-bus-6be725), CC BY 4.0
+- Striped River Lighthouse by Polyfork (https://polyfork.dev/asset/striped-river-lighthouse-90d74d), CC BY 4.0
+- Amusement Park Entrance Arch by Polyfork (https://polyfork.dev/asset/amusement-park-entrance-arch-687549), CC BY 4.0
+- Pumpkin Patch Farm Stand by Polyfork (https://polyfork.dev/asset/pumpkin-patch-farm-stand-5c30be), CC BY 4.0
+- Chinese Hexagonal Pavilion by Polyfork (https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e), CC BY 4.0
+- Red Barn by Polyfork (https://polyfork.dev/asset/red-barn-d41683), CC BY 4.0
+- Carousel by Polyfork (https://polyfork.dev/asset/carousel-39cbc8), CC BY 4.0
+- Promenade Shelter by Polyfork (https://polyfork.dev/asset/promenade-shelter-788f46), CC BY 4.0
+- Swivel Gun by Polyfork (https://polyfork.dev/asset/swivel-gun-e06c4e), CC BY 4.0
+- Boathouse by Polyfork (https://polyfork.dev/asset/boathouse-cf20e6), CC BY 4.0
+- Seafront Toilet Block by Polyfork (https://polyfork.dev/asset/seafront-toilet-block-c3f643), CC BY 4.0
+- Modern Gable House by Polyfork (https://polyfork.dev/asset/modern-gable-house-ea0247), CC BY 4.0
+- City Bus by Polyfork (https://polyfork.dev/asset/city-bus-49fd97), CC BY 4.0
+- Blue-Domed Chapel by Polyfork (https://polyfork.dev/asset/blue-domed-chapel-297391), CC BY 4.0
+- Airport Hotel by Polyfork (https://polyfork.dev/asset/airport-hotel-1a1e0a), CC BY 4.0
+- Pirate Galleon by Polyfork (https://polyfork.dev/asset/pirate-galleon-2e9aea), CC BY 4.0
+- Small Fishing Boat by Polyfork (https://polyfork.dev/asset/small-fishing-boat-4ac0e3), CC BY 4.0
+- Alpine Hay Barn by Polyfork (https://polyfork.dev/asset/alpine-hay-barn-3965e5), CC BY 4.0
+- Water Mill by Polyfork (https://polyfork.dev/asset/water-mill-b31972), CC BY 4.0
+- Cove Tavern by Polyfork (https://polyfork.dev/asset/cove-tavern-5861a6), CC BY 4.0
+- Cube House Module by Polyfork (https://polyfork.dev/asset/cube-house-module-a9b8e8), CC BY 4.0
+- Two-Storey Family House by Polyfork (https://polyfork.dev/asset/two-storey-family-house-c63c4a), CC BY 4.0
+- Lifeguard Tower by Polyfork (https://polyfork.dev/asset/lifeguard-tower-183c37), CC BY 4.0
+- Rammed-Earth Farmhouse by Polyfork (https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc), CC BY 4.0
+- Pirate Sloop by Polyfork (https://polyfork.dev/asset/pirate-sloop-d8ead0), CC BY 4.0
+- Boat Shed by Polyfork (https://polyfork.dev/asset/boat-shed-74c94f), CC BY 4.0
+- Helicopter by Polyfork (https://polyfork.dev/asset/helicopter-9d1986), CC BY 4.0
+- Cow by Polyfork (https://polyfork.dev/asset/cow-c61a66), CC BY 4.0
+- Watchtower by Polyfork (https://polyfork.dev/asset/watchtower-140f78), CC BY 4.0
+- Deck Cannon by Polyfork (https://polyfork.dev/asset/deck-cannon-17849e), CC BY 4.0
+- Single-Storey Ranch House by Polyfork (https://polyfork.dev/asset/single-storey-ranch-house-3880ea), CC BY 4.0
+- Tender Steam Locomotive by Polyfork (https://polyfork.dev/asset/tender-steam-locomotive-8e2a82), CC BY 4.0
+- Harbour Master's Hut by Polyfork (https://polyfork.dev/asset/harbour-master-s-hut-226f34), CC BY 4.0
+- Big Six Money Wheel by Polyfork (https://polyfork.dev/asset/big-six-money-wheel-0f7174), CC BY 4.0
+- Tool Shed by Polyfork (https://polyfork.dev/asset/tool-shed-f61f49), CC BY 4.0
+- Twin-Engine Piston Light Aircraft by Polyfork (https://polyfork.dev/asset/twin-engine-piston-light-f417c7), CC BY 4.0
+- Blacksmith Forge by Polyfork (https://polyfork.dev/asset/blacksmith-forge-09fa85), CC BY 4.0
+- Swan Pedal Boat by Polyfork (https://polyfork.dev/asset/swan-pedal-boat-8dc50b), CC BY 4.0
+- Domed Church by Polyfork (https://polyfork.dev/asset/domed-church-dcbe85), CC BY 4.0
+- Clapboard Church by Polyfork (https://polyfork.dev/asset/clapboard-church-03a6f5), CC BY 4.0
+- Dock Warehouse by Polyfork (https://polyfork.dev/asset/dock-warehouse-bf0967), CC BY 4.0
+- Miner's Shack by Polyfork (https://polyfork.dev/asset/miner-s-shack-68b196), CC BY 4.0
+- Mole Lighthouse by Polyfork (https://polyfork.dev/asset/mole-lighthouse-c690b4), CC BY 4.0
+- Sunflower by Polyfork (https://polyfork.dev/asset/sunflower-80ce15), CC BY 4.0
+- General Store by Polyfork (https://polyfork.dev/asset/general-store-a2187a), CC BY 4.0
+- Ice Cream Kiosk on Wheels by Polyfork (https://polyfork.dev/asset/ice-cream-kiosk-on-40a568), CC BY 4.0
+- Roadside Farm Stand by Polyfork (https://polyfork.dev/asset/roadside-farm-stand-e218ca), CC BY 4.0
+- Wrecked Hull Section by Polyfork (https://polyfork.dev/asset/wrecked-hull-section-ca6755), CC BY 4.0
+- Windpump Tower by Polyfork (https://polyfork.dev/asset/windpump-tower-1633a9), CC BY 4.0
+- Village Tavern by Polyfork (https://polyfork.dev/asset/village-tavern-4e94e3), CC BY 4.0
+- Hay Bale by Polyfork (https://polyfork.dev/asset/hay-bale-079e8c), CC BY 4.0
+- Split-Level House by Polyfork (https://polyfork.dev/asset/split-level-house-40fe1a), CC BY 4.0
+- Jolly Roger Pole by Polyfork (https://polyfork.dev/asset/jolly-roger-pole-803c5a), CC BY 4.0
+- Compact Tractor by Polyfork (https://polyfork.dev/asset/compact-tractor-35b84b), CC BY 4.0
+- Ship's Longboat by Polyfork (https://polyfork.dev/asset/ship-s-longboat-f159fd), CC BY 4.0
+- Roulette Wheel by Polyfork (https://polyfork.dev/asset/roulette-wheel-f92631), CC BY 4.0
+- Two-Story House by Polyfork (https://polyfork.dev/asset/two-story-house-40f6dc), CC BY 4.0
+- Stilted Granary by Polyfork (https://polyfork.dev/asset/stilted-granary-3e7d7d), CC BY 4.0
+- Smuggler Cave Mouth by Polyfork (https://polyfork.dev/asset/smuggler-cave-mouth-69a07e), CC BY 4.0
+- Country Station Building by Polyfork (https://polyfork.dev/asset/country-station-building-2d8f5e), CC BY 4.0
+- Marigold Pickup by Polyfork (https://polyfork.dev/asset/marigold-pickup-f4b6f9), CC BY 4.0
+- Old Lighthouse by Polyfork (https://polyfork.dev/asset/old-lighthouse-48ca6c), CC BY 4.0
+- Caique Fishing Boat by Polyfork (https://polyfork.dev/asset/caique-fishing-boat-262c24), CC BY 4.0
+- Fuel Farm Tank by Polyfork (https://polyfork.dev/asset/fuel-farm-tank-ed67f0), CC BY 4.0
+- Ferris Wheel by Polyfork (https://polyfork.dev/asset/ferris-wheel-ca5b0b), CC BY 4.0
+- Windmill by Polyfork (https://polyfork.dev/asset/windmill-3aad49), CC BY 4.0
+- Sheep by Polyfork (https://polyfork.dev/asset/sheep-7b0187), CC BY 4.0
+- Stone Well by Polyfork (https://polyfork.dev/asset/stone-well-b2dfcd), CC BY 4.0
+- Saloon by Polyfork (https://polyfork.dev/asset/saloon-6dda1c), CC BY 4.0
+- Ox Cart by Polyfork (https://polyfork.dev/asset/ox-cart-c12bca), CC BY 4.0
+- Lighthouse Keeper's Cottage by Polyfork (https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33), CC BY 4.0
+- Thatched Cottage by Polyfork (https://polyfork.dev/asset/thatched-cottage-0e63f5), CC BY 4.0
+- Pier Head Platform by Polyfork (https://polyfork.dev/asset/pier-head-platform-63662b), CC BY 4.0
+- Backyard Garden Shed by Polyfork (https://polyfork.dev/asset/backyard-garden-shed-38d79f), CC BY 4.0
+- Minka Farmhouse by Polyfork (https://polyfork.dev/asset/minka-farmhouse-680475), CC BY 4.0
+- Livery Stable by Polyfork (https://polyfork.dev/asset/livery-stable-c01ee0), CC BY 4.0
+- Vertical Farm Tower by Polyfork (https://polyfork.dev/asset/vertical-farm-tower-77d887), CC BY 4.0
+- Porch-Front Cottage by Polyfork (https://polyfork.dev/asset/porch-front-cottage-620c29), CC BY 4.0
+- Tank Steam Locomotive by Polyfork (https://polyfork.dev/asset/tank-steam-locomotive-314bb1), CC BY 4.0
+- Crossing Keeper's Cottage by Polyfork (https://polyfork.dev/asset/crossing-keeper-s-cottage-de49a4), CC BY 4.0
+- Mainline Diesel Locomotive by Polyfork (https://polyfork.dev/asset/mainline-diesel-locomotive-33ef97), CC BY 4.0
+- Hotel by Polyfork (https://polyfork.dev/asset/hotel-b43f66), CC BY 4.0
+- Adobe Colonial Farmhouse by Polyfork (https://polyfork.dev/asset/adobe-colonial-farmhouse-cf13d8), CC BY 4.0
+- Timber Barn by Polyfork (https://polyfork.dev/asset/timber-barn-90b3ce), CC BY 4.0
+- Windmill Pump by Polyfork (https://polyfork.dev/asset/windmill-pump-2993a4), CC BY 4.0
+- Pirate Brigantine by Polyfork (https://polyfork.dev/asset/pirate-brigantine-c29c57), CC BY 4.0
+- Cave House Front by Polyfork (https://polyfork.dev/asset/cave-house-front-ed6b36), CC BY 4.0
+- Railbus by Polyfork (https://polyfork.dev/asset/railbus-e972f3), CC BY 4.0
+- Tiered Bell Tower by Polyfork (https://polyfork.dev/asset/tiered-bell-tower-e1b706), CC BY 4.0

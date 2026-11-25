@@ -1,0 +1,2134 @@
+[
+  {
+    "id": "beehive-2e70bf",
+    "title": "Beehive",
+    "size_m": {
+      "x": 0.47,
+      "y": 0.9,
+      "z": 0.58
+    },
+    "triangles": 420,
+    "credit": "Beehive by Polyfork (https://polyfork.dev/asset/beehive-2e70bf), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/beehive-2e70bf.glb"
+  },
+  {
+    "id": "basket-of-produce-7420cf",
+    "title": "Basket of Produce",
+    "size_m": {
+      "x": 0.5,
+      "y": 0.53,
+      "z": 0.5
+    },
+    "triangles": 766,
+    "credit": "Basket of Produce by Polyfork (https://polyfork.dev/asset/basket-of-produce-7420cf), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/basket-of-produce-7420cf.glb"
+  },
+  {
+    "id": "barrel-8d63c4",
+    "title": "Barrel",
+    "size_m": {
+      "x": 0.67,
+      "y": 0.9,
+      "z": 0.67
+    },
+    "triangles": 552,
+    "credit": "Barrel by Polyfork (https://polyfork.dev/asset/barrel-8d63c4), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/barrel-8d63c4.glb"
+  },
+  {
+    "id": "cargo-crate-9afc44",
+    "title": "Cargo Crate",
+    "size_m": {
+      "x": 0.8,
+      "y": 0.8,
+      "z": 0.8
+    },
+    "triangles": 536,
+    "credit": "Cargo Crate by Polyfork (https://polyfork.dev/asset/cargo-crate-9afc44), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cargo-crate-9afc44.glb"
+  },
+  {
+    "id": "gabled-farmhouse-c7534f",
+    "title": "Gabled Farmhouse",
+    "size_m": {
+      "x": 6,
+      "y": 6.23,
+      "z": 5
+    },
+    "triangles": 908,
+    "credit": "Gabled Farmhouse by Polyfork (https://polyfork.dev/asset/gabled-farmhouse-c7534f), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/gabled-farmhouse-c7534f.glb"
+  },
+  {
+    "id": "chicken-coop-371f97",
+    "title": "Chicken Coop",
+    "size_m": {
+      "x": 3,
+      "y": 2.15,
+      "z": 3
+    },
+    "triangles": 1052,
+    "credit": "Chicken Coop by Polyfork (https://polyfork.dev/asset/chicken-coop-371f97), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/chicken-coop-371f97.glb"
+  },
+  {
+    "id": "open-stable-dbf2d5",
+    "title": "Open Stable",
+    "size_m": {
+      "x": 4,
+      "y": 2.5,
+      "z": 3
+    },
+    "triangles": 1112,
+    "credit": "Open Stable by Polyfork (https://polyfork.dev/asset/open-stable-dbf2d5), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/open-stable-dbf2d5.glb"
+  },
+  {
+    "id": "greenhouse-53ab6d",
+    "title": "Greenhouse",
+    "size_m": {
+      "x": 4,
+      "y": 4.45,
+      "z": 6
+    },
+    "triangles": 800,
+    "credit": "Greenhouse by Polyfork (https://polyfork.dev/asset/greenhouse-53ab6d), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/greenhouse-53ab6d.glb"
+  },
+  {
+    "id": "grain-silo-58ca67",
+    "title": "Grain Silo",
+    "size_m": {
+      "x": 3,
+      "y": 7.31,
+      "z": 3
+    },
+    "triangles": 1290,
+    "credit": "Grain Silo by Polyfork (https://polyfork.dev/asset/grain-silo-58ca67), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/grain-silo-58ca67.glb"
+  },
+  {
+    "id": "apple-tree-ef0ba0",
+    "title": "Apple Tree",
+    "size_m": {
+      "x": 2.73,
+      "y": 3.39,
+      "z": 2.67
+    },
+    "triangles": 679,
+    "credit": "Apple Tree by Polyfork (https://polyfork.dev/asset/apple-tree-ef0ba0), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/apple-tree-ef0ba0.glb"
+  },
+  {
+    "id": "farmer-304a43",
+    "title": "Farmer",
+    "size_m": {
+      "x": 1.69,
+      "y": 1.74,
+      "z": 0.48
+    },
+    "triangles": 4875,
+    "credit": "Farmer by Polyfork (https://polyfork.dev/asset/farmer-304a43), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/farmer-304a43.glb"
+  },
+  {
+    "id": "shipwright-boat-shed-9cbbc1",
+    "title": "Shipwright Boat Shed",
+    "size_m": {
+      "x": 5,
+      "y": 4.15,
+      "z": 6
+    },
+    "triangles": 1274,
+    "credit": "Shipwright Boat Shed by Polyfork (https://polyfork.dev/asset/shipwright-boat-shed-9cbbc1), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/shipwright-boat-shed-9cbbc1.glb"
+  },
+  {
+    "id": "fisherman-shack-ea9b2b",
+    "title": "Fisherman Shack",
+    "size_m": {
+      "x": 4.72,
+      "y": 5.45,
+      "z": 4.26
+    },
+    "triangles": 1638,
+    "credit": "Fisherman Shack by Polyfork (https://polyfork.dev/asset/fisherman-shack-ea9b2b), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/fisherman-shack-ea9b2b.glb"
+  },
+  {
+    "id": "dock-cargo-crane-ccd97f",
+    "title": "Dock Cargo Crane",
+    "size_m": {
+      "x": 3.83,
+      "y": 6.62,
+      "z": 4.25
+    },
+    "triangles": 1412,
+    "credit": "Dock Cargo Crane by Polyfork (https://polyfork.dev/asset/dock-cargo-crane-ccd97f), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/dock-cargo-crane-ccd97f.glb"
+  },
+  {
+    "id": "lookout-watchtower-f1a5ce",
+    "title": "Lookout Watchtower",
+    "size_m": {
+      "x": 2.5,
+      "y": 10.04,
+      "z": 2.84
+    },
+    "triangles": 962,
+    "credit": "Lookout Watchtower by Polyfork (https://polyfork.dev/asset/lookout-watchtower-f1a5ce), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/lookout-watchtower-f1a5ce.glb"
+  },
+  {
+    "id": "palm-tree-a307da",
+    "title": "Palm Tree",
+    "size_m": {
+      "x": 4.29,
+      "y": 5.97,
+      "z": 4.07
+    },
+    "triangles": 645,
+    "credit": "Palm Tree by Polyfork (https://polyfork.dev/asset/palm-tree-a307da), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/palm-tree-a307da.glb"
+  },
+  {
+    "id": "rowboat-c42d85",
+    "title": "Rowboat",
+    "size_m": {
+      "x": 1.34,
+      "y": 0.72,
+      "z": 3
+    },
+    "triangles": 694,
+    "credit": "Rowboat by Polyfork (https://polyfork.dev/asset/rowboat-c42d85), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/rowboat-c42d85.glb"
+  },
+  {
+    "id": "treasure-chest-c2ac4f",
+    "title": "Treasure Chest",
+    "size_m": {
+      "x": 0.9,
+      "y": 0.6,
+      "z": 0.56
+    },
+    "triangles": 562,
+    "credit": "Treasure Chest by Polyfork (https://polyfork.dev/asset/treasure-chest-c2ac4f), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/treasure-chest-c2ac4f.glb"
+  },
+  {
+    "id": "pirate-captain-91f545",
+    "title": "Pirate Captain",
+    "size_m": {
+      "x": 1.67,
+      "y": 2.05,
+      "z": 0.45
+    },
+    "triangles": 4205,
+    "credit": "Pirate Captain by Polyfork (https://polyfork.dev/asset/pirate-captain-91f545), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/pirate-captain-91f545.glb"
+  },
+  {
+    "id": "pirate-deckhand-98a6e7",
+    "title": "Pirate Deckhand",
+    "size_m": {
+      "x": 1.67,
+      "y": 1.71,
+      "z": 0.34
+    },
+    "triangles": 3801,
+    "credit": "Pirate Deckhand by Polyfork (https://polyfork.dev/asset/pirate-deckhand-98a6e7), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/pirate-deckhand-98a6e7.glb"
+  },
+  {
+    "id": "naval-officer-93027f",
+    "title": "Naval Officer",
+    "size_m": {
+      "x": 1.67,
+      "y": 1.75,
+      "z": 0.57
+    },
+    "triangles": 3801,
+    "credit": "Naval Officer by Polyfork (https://polyfork.dev/asset/naval-officer-93027f), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/naval-officer-93027f.glb"
+  },
+  {
+    "id": "cove-trader-0f94a6",
+    "title": "Cove Trader",
+    "size_m": {
+      "x": 1.69,
+      "y": 1.8,
+      "z": 0.43
+    },
+    "triangles": 3805,
+    "credit": "Cove Trader by Polyfork (https://polyfork.dev/asset/cove-trader-0f94a6), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cove-trader-0f94a6.glb"
+  },
+  {
+    "id": "corner-shophouse-ad15c2",
+    "title": "Corner Shophouse",
+    "size_m": {
+      "x": 4,
+      "y": 9.48,
+      "z": 4
+    },
+    "triangles": 1134,
+    "credit": "Corner Shophouse by Polyfork (https://polyfork.dev/asset/corner-shophouse-ad15c2), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/corner-shophouse-ad15c2.glb"
+  },
+  {
+    "id": "three-storey-shophouse-2f6378",
+    "title": "Three-Storey Shophouse",
+    "size_m": {
+      "x": 4,
+      "y": 9.4,
+      "z": 4
+    },
+    "triangles": 1146,
+    "credit": "Three-Storey Shophouse by Polyfork (https://polyfork.dev/asset/three-storey-shophouse-2f6378), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/three-storey-shophouse-2f6378.glb"
+  },
+  {
+    "id": "two-storey-shophouse-183790",
+    "title": "Two-Storey Shophouse",
+    "size_m": {
+      "x": 4,
+      "y": 7.65,
+      "z": 4
+    },
+    "triangles": 1250,
+    "credit": "Two-Storey Shophouse by Polyfork (https://polyfork.dev/asset/two-storey-shophouse-183790), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/two-storey-shophouse-183790.glb"
+  },
+  {
+    "id": "wide-shophouse-089f20",
+    "title": "Wide Shophouse",
+    "size_m": {
+      "x": 8,
+      "y": 8.28,
+      "z": 4
+    },
+    "triangles": 988,
+    "credit": "Wide Shophouse by Polyfork (https://polyfork.dev/asset/wide-shophouse-089f20), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/wide-shophouse-089f20.glb"
+  },
+  {
+    "id": "convenience-store-c30e1d",
+    "title": "Convenience Store",
+    "size_m": {
+      "x": 8,
+      "y": 3.42,
+      "z": 4
+    },
+    "triangles": 920,
+    "credit": "Convenience Store by Polyfork (https://polyfork.dev/asset/convenience-store-c30e1d), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/convenience-store-c30e1d.glb"
+  },
+  {
+    "id": "amusement-parlour-7eb45f",
+    "title": "Amusement Parlour",
+    "size_m": {
+      "x": 8,
+      "y": 9.42,
+      "z": 4
+    },
+    "triangles": 1334,
+    "credit": "Amusement Parlour by Polyfork (https://polyfork.dev/asset/amusement-parlour-7eb45f), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/amusement-parlour-7eb45f.glb"
+  },
+  {
+    "id": "small-shrine-hall-cb8b25",
+    "title": "Small Shrine Hall",
+    "size_m": {
+      "x": 4,
+      "y": 3.6,
+      "z": 4
+    },
+    "triangles": 1432,
+    "credit": "Small Shrine Hall by Polyfork (https://polyfork.dev/asset/small-shrine-hall-cb8b25), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/small-shrine-hall-cb8b25.glb"
+  },
+  {
+    "id": "alley-bar-hut-3e41f8",
+    "title": "Alley Bar Hut",
+    "size_m": {
+      "x": 4,
+      "y": 3.34,
+      "z": 4
+    },
+    "triangles": 1678,
+    "credit": "Alley Bar Hut by Polyfork (https://polyfork.dev/asset/alley-bar-hut-3e41f8), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/alley-bar-hut-3e41f8.glb"
+  },
+  {
+    "id": "cherry-blossom-tree-3f7ab7",
+    "title": "Cherry Blossom Tree",
+    "size_m": {
+      "x": 3.53,
+      "y": 4.5,
+      "z": 3.31
+    },
+    "triangles": 619,
+    "credit": "Cherry Blossom Tree by Polyfork (https://polyfork.dev/asset/cherry-blossom-tree-3f7ab7), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cherry-blossom-tree-3f7ab7.glb"
+  },
+  {
+    "id": "street-lamp-29f365",
+    "title": "Street Lamp",
+    "size_m": {
+      "x": 0.85,
+      "y": 5,
+      "z": 1.99
+    },
+    "triangles": 378,
+    "credit": "Street Lamp by Polyfork (https://polyfork.dev/asset/street-lamp-29f365), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/street-lamp-29f365.glb"
+  },
+  {
+    "id": "wooden-bench-661da4",
+    "title": "Wooden Bench",
+    "size_m": {
+      "x": 1.6,
+      "y": 0.86,
+      "z": 0.5
+    },
+    "triangles": 374,
+    "credit": "Wooden Bench by Polyfork (https://polyfork.dev/asset/wooden-bench-661da4), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/wooden-bench-661da4.glb"
+  },
+  {
+    "id": "city-taxi-eefa91",
+    "title": "City Taxi",
+    "size_m": {
+      "x": 1.82,
+      "y": 1.69,
+      "z": 4.4
+    },
+    "triangles": 1970,
+    "credit": "City Taxi by Polyfork (https://polyfork.dev/asset/city-taxi-eefa91), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/city-taxi-eefa91.glb"
+  },
+  {
+    "id": "kei-van-211ed5",
+    "title": "Kei Van",
+    "size_m": {
+      "x": 1.76,
+      "y": 1.87,
+      "z": 3.23
+    },
+    "triangles": 2070,
+    "credit": "Kei Van by Polyfork (https://polyfork.dev/asset/kei-van-211ed5), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/kei-van-211ed5.glb"
+  },
+  {
+    "id": "delivery-moped-1aa2ce",
+    "title": "Delivery Moped",
+    "size_m": {
+      "x": 0.66,
+      "y": 1.33,
+      "z": 1.79
+    },
+    "triangles": 1752,
+    "credit": "Delivery Moped by Polyfork (https://polyfork.dev/asset/delivery-moped-1aa2ce), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/delivery-moped-1aa2ce.glb"
+  },
+  {
+    "id": "street-diner-40fc87",
+    "title": "Street Diner",
+    "size_m": {
+      "x": 8,
+      "y": 5.45,
+      "z": 4
+    },
+    "triangles": 2584,
+    "credit": "Street Diner by Polyfork (https://polyfork.dev/asset/street-diner-40fc87), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/street-diner-40fc87.glb"
+  },
+  {
+    "id": "fire-station-e2b756",
+    "title": "Fire Station",
+    "size_m": {
+      "x": 8,
+      "y": 7,
+      "z": 8
+    },
+    "triangles": 2282,
+    "credit": "Fire Station by Polyfork (https://polyfork.dev/asset/fire-station-e2b756), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/fire-station-e2b756.glb"
+  },
+  {
+    "id": "newsstand-6dfd65",
+    "title": "Newsstand",
+    "size_m": {
+      "x": 2.5,
+      "y": 2.3,
+      "z": 1.65
+    },
+    "triangles": 560,
+    "credit": "Newsstand by Polyfork (https://polyfork.dev/asset/newsstand-6dfd65), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/newsstand-6dfd65.glb"
+  },
+  {
+    "id": "street-sign-pole-1e9551",
+    "title": "Street Sign Pole",
+    "size_m": {
+      "x": 1.34,
+      "y": 3,
+      "z": 1.24
+    },
+    "triangles": 353,
+    "credit": "Street Sign Pole by Polyfork (https://polyfork.dev/asset/street-sign-pole-1e9551), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/street-sign-pole-1e9551.glb"
+  },
+  {
+    "id": "salaryman-commuter-4170c1",
+    "title": "Salaryman Commuter",
+    "size_m": {
+      "x": 1.63,
+      "y": 1.71,
+      "z": 0.35
+    },
+    "triangles": 3577,
+    "credit": "Salaryman Commuter by Polyfork (https://polyfork.dev/asset/salaryman-commuter-4170c1), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/salaryman-commuter-4170c1.glb"
+  },
+  {
+    "id": "shopkeeper-be5547",
+    "title": "Shopkeeper",
+    "size_m": {
+      "x": 1.6,
+      "y": 1.67,
+      "z": 0.38
+    },
+    "triangles": 4347,
+    "credit": "Shopkeeper by Polyfork (https://polyfork.dev/asset/shopkeeper-be5547), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/shopkeeper-be5547.glb"
+  },
+  {
+    "id": "school-student-385134",
+    "title": "School Student",
+    "size_m": {
+      "x": 1.46,
+      "y": 1.59,
+      "z": 0.52
+    },
+    "triangles": 4623,
+    "credit": "School Student by Polyfork (https://polyfork.dev/asset/school-student-385134), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/school-student-385134.glb"
+  },
+  {
+    "id": "delivery-courier-327e30",
+    "title": "Delivery Courier",
+    "size_m": {
+      "x": 1.95,
+      "y": 1.76,
+      "z": 0.62
+    },
+    "triangles": 3523,
+    "credit": "Delivery Courier by Polyfork (https://polyfork.dev/asset/delivery-courier-327e30), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/delivery-courier-327e30.glb"
+  },
+  {
+    "id": "ramen-yatai-stall-53974b",
+    "title": "Ramen Yatai Stall",
+    "size_m": {
+      "x": 1.87,
+      "y": 2.1,
+      "z": 1.23
+    },
+    "triangles": 886,
+    "credit": "Ramen Yatai Stall by Polyfork (https://polyfork.dev/asset/ramen-yatai-stall-53974b), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/ramen-yatai-stall-53974b.glb"
+  },
+  {
+    "id": "vending-machine-471c29",
+    "title": "Vending Machine",
+    "size_m": {
+      "x": 1.11,
+      "y": 1.9,
+      "z": 0.8
+    },
+    "triangles": 692,
+    "credit": "Vending Machine by Polyfork (https://polyfork.dev/asset/vending-machine-471c29), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/vending-machine-471c29.glb"
+  },
+  {
+    "id": "torii-gate-402f30",
+    "title": "Torii Gate",
+    "size_m": {
+      "x": 2.6,
+      "y": 3.19,
+      "z": 0.55
+    },
+    "triangles": 440,
+    "credit": "Torii Gate by Polyfork (https://polyfork.dev/asset/torii-gate-402f30), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/torii-gate-402f30.glb"
+  },
+  {
+    "id": "guardian-lion-statue-5bde18",
+    "title": "Guardian Lion Statue",
+    "size_m": {
+      "x": 0.62,
+      "y": 1.2,
+      "z": 0.72
+    },
+    "triangles": 864,
+    "credit": "Guardian Lion Statue by Polyfork (https://polyfork.dev/asset/guardian-lion-statue-5bde18), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/guardian-lion-statue-5bde18.glb"
+  },
+  {
+    "id": "red-post-box-f12045",
+    "title": "Red Post Box",
+    "size_m": {
+      "x": 0.55,
+      "y": 1.4,
+      "z": 0.57
+    },
+    "triangles": 562,
+    "credit": "Red Post Box by Polyfork (https://polyfork.dev/asset/red-post-box-f12045), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/red-post-box-f12045.glb"
+  },
+  {
+    "id": "potted-shrub-43bd21",
+    "title": "Potted Shrub",
+    "size_m": {
+      "x": 0.89,
+      "y": 1.38,
+      "z": 0.92
+    },
+    "triangles": 530,
+    "credit": "Potted Shrub by Polyfork (https://polyfork.dev/asset/potted-shrub-43bd21), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/potted-shrub-43bd21.glb"
+  },
+  {
+    "id": "city-bicycle-5b67d1",
+    "title": "City Bicycle",
+    "size_m": {
+      "x": 0.64,
+      "y": 1.04,
+      "z": 1.69
+    },
+    "triangles": 1670,
+    "credit": "City Bicycle by Polyfork (https://polyfork.dev/asset/city-bicycle-5b67d1), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/city-bicycle-5b67d1.glb"
+  },
+  {
+    "id": "traffic-signal-2a517e",
+    "title": "Traffic Signal",
+    "size_m": {
+      "x": 3.21,
+      "y": 5,
+      "z": 0.7
+    },
+    "triangles": 606,
+    "credit": "Traffic Signal by Polyfork (https://polyfork.dev/asset/traffic-signal-2a517e), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/traffic-signal-2a517e.glb"
+  },
+  {
+    "id": "purification-basin-93d3e5",
+    "title": "Purification Basin",
+    "size_m": {
+      "x": 1.2,
+      "y": 0.9,
+      "z": 0.8
+    },
+    "triangles": 699,
+    "credit": "Purification Basin by Polyfork (https://polyfork.dev/asset/purification-basin-93d3e5), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/purification-basin-93d3e5.glb"
+  },
+  {
+    "id": "stone-lantern-d56d0a",
+    "title": "Stone Lantern",
+    "size_m": {
+      "x": 0.56,
+      "y": 1.4,
+      "z": 0.56
+    },
+    "triangles": 528,
+    "credit": "Stone Lantern by Polyfork (https://polyfork.dev/asset/stone-lantern-d56d0a), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/stone-lantern-d56d0a.glb"
+  },
+  {
+    "id": "flower-planter-550bfb",
+    "title": "Flower Planter",
+    "size_m": {
+      "x": 1,
+      "y": 0.48,
+      "z": 0.4
+    },
+    "triangles": 564,
+    "credit": "Flower Planter by Polyfork (https://polyfork.dev/asset/flower-planter-550bfb), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/flower-planter-550bfb.glb"
+  },
+  {
+    "id": "convex-traffic-mirror-a64d15",
+    "title": "Convex Traffic Mirror",
+    "size_m": {
+      "x": 0.94,
+      "y": 2.4,
+      "z": 0.77
+    },
+    "triangles": 502,
+    "credit": "Convex Traffic Mirror by Polyfork (https://polyfork.dev/asset/convex-traffic-mirror-a64d15), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/convex-traffic-mirror-a64d15.glb"
+  },
+  {
+    "id": "auto-repair-garage-b91464",
+    "title": "Auto Repair Garage",
+    "size_m": {
+      "x": 12,
+      "y": 7.2,
+      "z": 8
+    },
+    "triangles": 2782,
+    "credit": "Auto Repair Garage by Polyfork (https://polyfork.dev/asset/auto-repair-garage-b91464), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/auto-repair-garage-b91464.glb"
+  },
+  {
+    "id": "classical-bank-04954e",
+    "title": "Classical Bank",
+    "size_m": {
+      "x": 12,
+      "y": 10.2,
+      "z": 12
+    },
+    "triangles": 2890,
+    "credit": "Classical Bank by Polyfork (https://polyfork.dev/asset/classical-bank-04954e), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/classical-bank-04954e.glb"
+  },
+  {
+    "id": "brick-church-322885",
+    "title": "Brick Church",
+    "size_m": {
+      "x": 8,
+      "y": 16.4,
+      "z": 12
+    },
+    "triangles": 2952,
+    "credit": "Brick Church by Polyfork (https://polyfork.dev/asset/brick-church-322885), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/brick-church-322885.glb"
+  },
+  {
+    "id": "brownstone-row-house-1b84fd",
+    "title": "Brownstone Row House",
+    "size_m": {
+      "x": 8,
+      "y": 17.06,
+      "z": 8
+    },
+    "triangles": 3050,
+    "credit": "Brownstone Row House by Polyfork (https://polyfork.dev/asset/brownstone-row-house-1b84fd), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/brownstone-row-house-1b84fd.glb"
+  },
+  {
+    "id": "corner-shop-5aec8c",
+    "title": "Corner Shop",
+    "size_m": {
+      "x": 8.85,
+      "y": 7,
+      "z": 8.85
+    },
+    "triangles": 2887,
+    "credit": "Corner Shop by Polyfork (https://polyfork.dev/asset/corner-shop-5aec8c), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/corner-shop-5aec8c.glb"
+  },
+  {
+    "id": "corner-tenement-92fb62",
+    "title": "Corner Tenement",
+    "size_m": {
+      "x": 8.61,
+      "y": 20.06,
+      "z": 13.2
+    },
+    "triangles": 2842,
+    "credit": "Corner Tenement by Polyfork (https://polyfork.dev/asset/corner-tenement-92fb62), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/corner-tenement-92fb62.glb"
+  },
+  {
+    "id": "department-store-ffbd58",
+    "title": "Department Store",
+    "size_m": {
+      "x": 16,
+      "y": 23.06,
+      "z": 12.75
+    },
+    "triangles": 3108,
+    "credit": "Department Store by Polyfork (https://polyfork.dev/asset/department-store-ffbd58), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/department-store-ffbd58.glb"
+  },
+  {
+    "id": "cast-iron-loft-b04b5a",
+    "title": "Cast Iron Loft",
+    "size_m": {
+      "x": 12,
+      "y": 20.06,
+      "z": 8.95
+    },
+    "triangles": 3212,
+    "credit": "Cast Iron Loft by Polyfork (https://polyfork.dev/asset/cast-iron-loft-b04b5a), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cast-iron-loft-b04b5a.glb"
+  },
+  {
+    "id": "movie-theater-40eeef",
+    "title": "Movie Theater",
+    "size_m": {
+      "x": 12,
+      "y": 13,
+      "z": 8
+    },
+    "triangles": 3106,
+    "credit": "Movie Theater by Polyfork (https://polyfork.dev/asset/movie-theater-40eeef), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/movie-theater-40eeef.glb"
+  },
+  {
+    "id": "office-tower-1538cc",
+    "title": "Office Tower",
+    "size_m": {
+      "x": 8,
+      "y": 32.06,
+      "z": 8
+    },
+    "triangles": 2676,
+    "credit": "Office Tower by Polyfork (https://polyfork.dev/asset/office-tower-1538cc), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/office-tower-1538cc.glb"
+  },
+  {
+    "id": "parking-garage-6e4f2c",
+    "title": "Parking Garage",
+    "size_m": {
+      "x": 12,
+      "y": 17.06,
+      "z": 12
+    },
+    "triangles": 2229,
+    "credit": "Parking Garage by Polyfork (https://polyfork.dev/asset/parking-garage-6e4f2c), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/parking-garage-6e4f2c.glb"
+  },
+  {
+    "id": "postwar-apartment-slab-cee5f9",
+    "title": "Postwar Apartment Slab",
+    "size_m": {
+      "x": 16,
+      "y": 50.06,
+      "z": 12
+    },
+    "triangles": 3812,
+    "credit": "Postwar Apartment Slab by Polyfork (https://polyfork.dev/asset/postwar-apartment-slab-cee5f9), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/postwar-apartment-slab-cee5f9.glb"
+  },
+  {
+    "id": "prewar-apartment-house-1081a6",
+    "title": "Prewar Apartment House",
+    "size_m": {
+      "x": 16,
+      "y": 41.06,
+      "z": 12
+    },
+    "triangles": 3996,
+    "credit": "Prewar Apartment House by Polyfork (https://polyfork.dev/asset/prewar-apartment-house-1081a6), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/prewar-apartment-house-1081a6.glb"
+  },
+  {
+    "id": "public-school-19ade5",
+    "title": "Public School",
+    "size_m": {
+      "x": 20,
+      "y": 13.2,
+      "z": 12
+    },
+    "triangles": 3074,
+    "credit": "Public School by Polyfork (https://polyfork.dev/asset/public-school-19ade5), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/public-school-19ade5.glb"
+  },
+  {
+    "id": "art-deco-setback-tower-b3a788",
+    "title": "Art Deco Setback Tower",
+    "size_m": {
+      "x": 16,
+      "y": 60,
+      "z": 16
+    },
+    "triangles": 3712,
+    "credit": "Art Deco Setback Tower by Polyfork (https://polyfork.dev/asset/art-deco-setback-tower-b3a788), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/art-deco-setback-tower-b3a788.glb"
+  },
+  {
+    "id": "one-storey-shop-row-83c958",
+    "title": "One-Storey Shop Row",
+    "size_m": {
+      "x": 12,
+      "y": 4.66,
+      "z": 8.92
+    },
+    "triangles": 2410,
+    "credit": "One-Storey Shop Row by Polyfork (https://polyfork.dev/asset/one-storey-shop-row-83c958), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/one-storey-shop-row-83c958.glb"
+  },
+  {
+    "id": "brick-tenement-7d2014",
+    "title": "Brick Tenement",
+    "size_m": {
+      "x": 8,
+      "y": 23.06,
+      "z": 9.2
+    },
+    "triangles": 3066,
+    "credit": "Brick Tenement by Polyfork (https://polyfork.dev/asset/brick-tenement-7d2014), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/brick-tenement-7d2014.glb"
+  },
+  {
+    "id": "narrow-walk-up-41f10c",
+    "title": "Narrow Walk-Up",
+    "size_m": {
+      "x": 4,
+      "y": 13,
+      "z": 9.37
+    },
+    "triangles": 2962,
+    "credit": "Narrow Walk-Up by Polyfork (https://polyfork.dev/asset/narrow-walk-up-41f10c), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/narrow-walk-up-41f10c.glb"
+  },
+  {
+    "id": "four-wheel-wagon-adb946",
+    "title": "Four-Wheel Wagon",
+    "size_m": {
+      "x": 2.01,
+      "y": 1.83,
+      "z": 5.88
+    },
+    "triangles": 2070,
+    "credit": "Four-Wheel Wagon by Polyfork (https://polyfork.dev/asset/four-wheel-wagon-adb946), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/four-wheel-wagon-adb946.glb"
+  },
+  {
+    "id": "articulated-transit-bus-6be725",
+    "title": "Articulated Transit Bus",
+    "size_m": {
+      "x": 3,
+      "y": 3.8,
+      "z": 16
+    },
+    "triangles": 2578,
+    "credit": "Articulated Transit Bus by Polyfork (https://polyfork.dev/asset/articulated-transit-bus-6be725), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/articulated-transit-bus-6be725.glb"
+  },
+  {
+    "id": "striped-river-lighthouse-90d74d",
+    "title": "Striped River Lighthouse",
+    "size_m": {
+      "x": 4.83,
+      "y": 11.95,
+      "z": 4.78
+    },
+    "triangles": 1871,
+    "credit": "Striped River Lighthouse by Polyfork (https://polyfork.dev/asset/striped-river-lighthouse-90d74d), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/striped-river-lighthouse-90d74d.glb"
+  },
+  {
+    "id": "amusement-park-entrance-arch-687549",
+    "title": "Amusement Park Entrance Arch",
+    "size_m": {
+      "x": 9.95,
+      "y": 8.05,
+      "z": 3.28
+    },
+    "triangles": 2750,
+    "credit": "Amusement Park Entrance Arch by Polyfork (https://polyfork.dev/asset/amusement-park-entrance-arch-687549), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/amusement-park-entrance-arch-687549.glb"
+  },
+  {
+    "id": "pumpkin-patch-farm-stand-5c30be",
+    "title": "Pumpkin Patch Farm Stand",
+    "size_m": {
+      "x": 4,
+      "y": 2.6,
+      "z": 2
+    },
+    "triangles": 1842,
+    "credit": "Pumpkin Patch Farm Stand by Polyfork (https://polyfork.dev/asset/pumpkin-patch-farm-stand-5c30be), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/pumpkin-patch-farm-stand-5c30be.glb"
+  },
+  {
+    "id": "chinese-hexagonal-pavilion-09d04e",
+    "title": "Chinese Hexagonal Pavilion",
+    "size_m": {
+      "x": 5.09,
+      "y": 5.05,
+      "z": 4.66
+    },
+    "triangles": 2794,
+    "credit": "Chinese Hexagonal Pavilion by Polyfork (https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/chinese-hexagonal-pavilion-09d04e.glb"
+  },
+  {
+    "id": "red-barn-d41683",
+    "title": "Red Barn",
+    "size_m": {
+      "x": 6,
+      "y": 7.26,
+      "z": 7
+    },
+    "triangles": 652,
+    "credit": "Red Barn by Polyfork (https://polyfork.dev/asset/red-barn-d41683), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/red-barn-d41683.glb"
+  },
+  {
+    "id": "carousel-39cbc8",
+    "title": "Carousel",
+    "size_m": {
+      "x": 9.91,
+      "y": 8.65,
+      "z": 10.7
+    },
+    "triangles": 2796,
+    "credit": "Carousel by Polyfork (https://polyfork.dev/asset/carousel-39cbc8), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/carousel-39cbc8.glb"
+  },
+  {
+    "id": "promenade-shelter-788f46",
+    "title": "Promenade Shelter",
+    "size_m": {
+      "x": 4,
+      "y": 2.4,
+      "z": 1.98
+    },
+    "triangles": 1440,
+    "credit": "Promenade Shelter by Polyfork (https://polyfork.dev/asset/promenade-shelter-788f46), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/promenade-shelter-788f46.glb"
+  },
+  {
+    "id": "swivel-gun-e06c4e",
+    "title": "Swivel Gun",
+    "size_m": {
+      "x": 0.41,
+      "y": 0.89,
+      "z": 1.26
+    },
+    "triangles": 664,
+    "credit": "Swivel Gun by Polyfork (https://polyfork.dev/asset/swivel-gun-e06c4e), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/swivel-gun-e06c4e.glb"
+  },
+  {
+    "id": "boathouse-cf20e6",
+    "title": "Boathouse",
+    "size_m": {
+      "x": 4,
+      "y": 5.3,
+      "z": 8
+    },
+    "triangles": 823,
+    "credit": "Boathouse by Polyfork (https://polyfork.dev/asset/boathouse-cf20e6), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/boathouse-cf20e6.glb"
+  },
+  {
+    "id": "seafront-toilet-block-c3f643",
+    "title": "Seafront Toilet Block",
+    "size_m": {
+      "x": 4,
+      "y": 3.21,
+      "z": 4
+    },
+    "triangles": 1414,
+    "credit": "Seafront Toilet Block by Polyfork (https://polyfork.dev/asset/seafront-toilet-block-c3f643), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/seafront-toilet-block-c3f643.glb"
+  },
+  {
+    "id": "modern-gable-house-ea0247",
+    "title": "Modern Gable House",
+    "size_m": {
+      "x": 6.3,
+      "y": 6.72,
+      "z": 10.3
+    },
+    "triangles": 1473,
+    "credit": "Modern Gable House by Polyfork (https://polyfork.dev/asset/modern-gable-house-ea0247), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/modern-gable-house-ea0247.glb"
+  },
+  {
+    "id": "city-bus-49fd97",
+    "title": "City Bus",
+    "size_m": {
+      "x": 2.18,
+      "y": 3.2,
+      "z": 11
+    },
+    "triangles": 2008,
+    "credit": "City Bus by Polyfork (https://polyfork.dev/asset/city-bus-49fd97), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/city-bus-49fd97.glb"
+  },
+  {
+    "id": "blue-domed-chapel-297391",
+    "title": "Blue-Domed Chapel",
+    "size_m": {
+      "x": 4,
+      "y": 6.57,
+      "z": 8
+    },
+    "triangles": 1251,
+    "credit": "Blue-Domed Chapel by Polyfork (https://polyfork.dev/asset/blue-domed-chapel-297391), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/blue-domed-chapel-297391.glb"
+  },
+  {
+    "id": "airport-hotel-1a1e0a",
+    "title": "Airport Hotel",
+    "size_m": {
+      "x": 24,
+      "y": 42.55,
+      "z": 16
+    },
+    "triangles": 1318,
+    "credit": "Airport Hotel by Polyfork (https://polyfork.dev/asset/airport-hotel-1a1e0a), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/airport-hotel-1a1e0a.glb"
+  },
+  {
+    "id": "pirate-galleon-2e9aea",
+    "title": "Pirate Galleon",
+    "size_m": {
+      "x": 7,
+      "y": 15.8,
+      "z": 26.48
+    },
+    "triangles": 4461,
+    "credit": "Pirate Galleon by Polyfork (https://polyfork.dev/asset/pirate-galleon-2e9aea), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/pirate-galleon-2e9aea.glb"
+  },
+  {
+    "id": "small-fishing-boat-4ac0e3",
+    "title": "Small Fishing Boat",
+    "size_m": {
+      "x": 2.36,
+      "y": 2.85,
+      "z": 6.84
+    },
+    "triangles": 2999,
+    "credit": "Small Fishing Boat by Polyfork (https://polyfork.dev/asset/small-fishing-boat-4ac0e3), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/small-fishing-boat-4ac0e3.glb"
+  },
+  {
+    "id": "alpine-hay-barn-3965e5",
+    "title": "Alpine Hay Barn",
+    "size_m": {
+      "x": 6,
+      "y": 4.28,
+      "z": 8
+    },
+    "triangles": 2074,
+    "credit": "Alpine Hay Barn by Polyfork (https://polyfork.dev/asset/alpine-hay-barn-3965e5), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/alpine-hay-barn-3965e5.glb"
+  },
+  {
+    "id": "water-mill-b31972",
+    "title": "Water Mill",
+    "size_m": {
+      "x": 4,
+      "y": 7.89,
+      "z": 3.98
+    },
+    "triangles": 1758,
+    "credit": "Water Mill by Polyfork (https://polyfork.dev/asset/water-mill-b31972), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/water-mill-b31972.glb"
+  },
+  {
+    "id": "cove-tavern-5861a6",
+    "title": "Cove Tavern",
+    "size_m": {
+      "x": 6.95,
+      "y": 8.9,
+      "z": 6
+    },
+    "triangles": 1762,
+    "credit": "Cove Tavern by Polyfork (https://polyfork.dev/asset/cove-tavern-5861a6), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cove-tavern-5861a6.glb"
+  },
+  {
+    "id": "cube-house-module-a9b8e8",
+    "title": "Cube House Module",
+    "size_m": {
+      "x": 4,
+      "y": 3,
+      "z": 4
+    },
+    "triangles": 1328,
+    "credit": "Cube House Module by Polyfork (https://polyfork.dev/asset/cube-house-module-a9b8e8), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cube-house-module-a9b8e8.glb"
+  },
+  {
+    "id": "two-storey-family-house-c63c4a",
+    "title": "Two-Storey Family House",
+    "size_m": {
+      "x": 8,
+      "y": 11.2,
+      "z": 8
+    },
+    "triangles": 1027,
+    "credit": "Two-Storey Family House by Polyfork (https://polyfork.dev/asset/two-storey-family-house-c63c4a), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/two-storey-family-house-c63c4a.glb"
+  },
+  {
+    "id": "lifeguard-tower-183c37",
+    "title": "Lifeguard Tower",
+    "size_m": {
+      "x": 4,
+      "y": 6.16,
+      "z": 4
+    },
+    "triangles": 1175,
+    "credit": "Lifeguard Tower by Polyfork (https://polyfork.dev/asset/lifeguard-tower-183c37), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/lifeguard-tower-183c37.glb"
+  },
+  {
+    "id": "rammed-earth-farmhouse-6432fc",
+    "title": "Rammed-Earth Farmhouse",
+    "size_m": {
+      "x": 8,
+      "y": 6.2,
+      "z": 4
+    },
+    "triangles": 3223,
+    "credit": "Rammed-Earth Farmhouse by Polyfork (https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/rammed-earth-farmhouse-6432fc.glb"
+  },
+  {
+    "id": "pirate-sloop-d8ead0",
+    "title": "Pirate Sloop",
+    "size_m": {
+      "x": 3.21,
+      "y": 7.77,
+      "z": 9.72
+    },
+    "triangles": 4773,
+    "credit": "Pirate Sloop by Polyfork (https://polyfork.dev/asset/pirate-sloop-d8ead0), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/pirate-sloop-d8ead0.glb"
+  },
+  {
+    "id": "boat-shed-74c94f",
+    "title": "Boat Shed",
+    "size_m": {
+      "x": 8,
+      "y": 7.32,
+      "z": 8
+    },
+    "triangles": 1408,
+    "credit": "Boat Shed by Polyfork (https://polyfork.dev/asset/boat-shed-74c94f), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/boat-shed-74c94f.glb"
+  },
+  {
+    "id": "helicopter-9d1986",
+    "title": "Helicopter",
+    "size_m": {
+      "x": 7.97,
+      "y": 3.89,
+      "z": 11.4
+    },
+    "triangles": 4429,
+    "credit": "Helicopter by Polyfork (https://polyfork.dev/asset/helicopter-9d1986), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/helicopter-9d1986.glb"
+  },
+  {
+    "id": "cow-c61a66",
+    "title": "Cow",
+    "size_m": {
+      "x": 0.84,
+      "y": 1.46,
+      "z": 2.34
+    },
+    "triangles": 2538,
+    "credit": "Cow by Polyfork (https://polyfork.dev/asset/cow-c61a66), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cow-c61a66.glb"
+  },
+  {
+    "id": "watchtower-140f78",
+    "title": "Watchtower",
+    "size_m": {
+      "x": 3.61,
+      "y": 9.45,
+      "z": 4.56
+    },
+    "triangles": 1736,
+    "credit": "Watchtower by Polyfork (https://polyfork.dev/asset/watchtower-140f78), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/watchtower-140f78.glb"
+  },
+  {
+    "id": "deck-cannon-17849e",
+    "title": "Deck Cannon",
+    "size_m": {
+      "x": 0.85,
+      "y": 0.66,
+      "z": 1.8
+    },
+    "triangles": 692,
+    "credit": "Deck Cannon by Polyfork (https://polyfork.dev/asset/deck-cannon-17849e), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/deck-cannon-17849e.glb"
+  },
+  {
+    "id": "single-storey-ranch-house-3880ea",
+    "title": "Single-Storey Ranch House",
+    "size_m": {
+      "x": 12,
+      "y": 5.9,
+      "z": 8
+    },
+    "triangles": 1160,
+    "credit": "Single-Storey Ranch House by Polyfork (https://polyfork.dev/asset/single-storey-ranch-house-3880ea), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/single-storey-ranch-house-3880ea.glb"
+  },
+  {
+    "id": "tender-steam-locomotive-8e2a82",
+    "title": "Tender Steam Locomotive",
+    "size_m": {
+      "x": 2.75,
+      "y": 4.22,
+      "z": 12
+    },
+    "triangles": 4531,
+    "credit": "Tender Steam Locomotive by Polyfork (https://polyfork.dev/asset/tender-steam-locomotive-8e2a82), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/tender-steam-locomotive-8e2a82.glb"
+  },
+  {
+    "id": "harbour-master-s-hut-226f34",
+    "title": "Harbour Master's Hut",
+    "size_m": {
+      "x": 4,
+      "y": 3.79,
+      "z": 4
+    },
+    "triangles": 1468,
+    "credit": "Harbour Master's Hut by Polyfork (https://polyfork.dev/asset/harbour-master-s-hut-226f34), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/harbour-master-s-hut-226f34.glb"
+  },
+  {
+    "id": "big-six-money-wheel-0f7174",
+    "title": "Big Six Money Wheel",
+    "size_m": {
+      "x": 1.8,
+      "y": 2.94,
+      "z": 0.6
+    },
+    "triangles": 877,
+    "credit": "Big Six Money Wheel by Polyfork (https://polyfork.dev/asset/big-six-money-wheel-0f7174), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/big-six-money-wheel-0f7174.glb"
+  },
+  {
+    "id": "tool-shed-f61f49",
+    "title": "Tool Shed",
+    "size_m": {
+      "x": 2,
+      "y": 2.65,
+      "z": 2
+    },
+    "triangles": 462,
+    "credit": "Tool Shed by Polyfork (https://polyfork.dev/asset/tool-shed-f61f49), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/tool-shed-f61f49.glb"
+  },
+  {
+    "id": "twin-engine-piston-light-f417c7",
+    "title": "Twin-Engine Piston Light Aircraft",
+    "size_m": {
+      "x": 12.46,
+      "y": 3.82,
+      "z": 10.07
+    },
+    "triangles": 3639,
+    "credit": "Twin-Engine Piston Light Aircraft by Polyfork (https://polyfork.dev/asset/twin-engine-piston-light-f417c7), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/twin-engine-piston-light-f417c7.glb"
+  },
+  {
+    "id": "blacksmith-forge-09fa85",
+    "title": "Blacksmith Forge",
+    "size_m": {
+      "x": 5.08,
+      "y": 3.96,
+      "z": 4.03
+    },
+    "triangles": 1668,
+    "credit": "Blacksmith Forge by Polyfork (https://polyfork.dev/asset/blacksmith-forge-09fa85), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/blacksmith-forge-09fa85.glb"
+  },
+  {
+    "id": "swan-pedal-boat-8dc50b",
+    "title": "Swan Pedal Boat",
+    "size_m": {
+      "x": 2.11,
+      "y": 2.45,
+      "z": 3.05
+    },
+    "triangles": 2382,
+    "credit": "Swan Pedal Boat by Polyfork (https://polyfork.dev/asset/swan-pedal-boat-8dc50b), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/swan-pedal-boat-8dc50b.glb"
+  },
+  {
+    "id": "domed-church-dcbe85",
+    "title": "Domed Church",
+    "size_m": {
+      "x": 8,
+      "y": 10.55,
+      "z": 12
+    },
+    "triangles": 1844,
+    "credit": "Domed Church by Polyfork (https://polyfork.dev/asset/domed-church-dcbe85), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/domed-church-dcbe85.glb"
+  },
+  {
+    "id": "clapboard-church-03a6f5",
+    "title": "Clapboard Church",
+    "size_m": {
+      "x": 6,
+      "y": 10,
+      "z": 10
+    },
+    "triangles": 1513,
+    "credit": "Clapboard Church by Polyfork (https://polyfork.dev/asset/clapboard-church-03a6f5), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/clapboard-church-03a6f5.glb"
+  },
+  {
+    "id": "dock-warehouse-bf0967",
+    "title": "Dock Warehouse",
+    "size_m": {
+      "x": 6,
+      "y": 5.23,
+      "z": 8
+    },
+    "triangles": 1430,
+    "credit": "Dock Warehouse by Polyfork (https://polyfork.dev/asset/dock-warehouse-bf0967), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/dock-warehouse-bf0967.glb"
+  },
+  {
+    "id": "miner-s-shack-68b196",
+    "title": "Miner's Shack",
+    "size_m": {
+      "x": 4,
+      "y": 5.45,
+      "z": 3.93
+    },
+    "triangles": 1465,
+    "credit": "Miner's Shack by Polyfork (https://polyfork.dev/asset/miner-s-shack-68b196), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/miner-s-shack-68b196.glb"
+  },
+  {
+    "id": "mole-lighthouse-c690b4",
+    "title": "Mole Lighthouse",
+    "size_m": {
+      "x": 4,
+      "y": 5,
+      "z": 4
+    },
+    "triangles": 1742,
+    "credit": "Mole Lighthouse by Polyfork (https://polyfork.dev/asset/mole-lighthouse-c690b4), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/mole-lighthouse-c690b4.glb"
+  },
+  {
+    "id": "sunflower-80ce15",
+    "title": "Sunflower",
+    "size_m": {
+      "x": 0.81,
+      "y": 1.79,
+      "z": 0.29
+    },
+    "triangles": 578,
+    "credit": "Sunflower by Polyfork (https://polyfork.dev/asset/sunflower-80ce15), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/sunflower-80ce15.glb"
+  },
+  {
+    "id": "general-store-a2187a",
+    "title": "General Store",
+    "size_m": {
+      "x": 6,
+      "y": 6,
+      "z": 8
+    },
+    "triangles": 1395,
+    "credit": "General Store by Polyfork (https://polyfork.dev/asset/general-store-a2187a), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/general-store-a2187a.glb"
+  },
+  {
+    "id": "ice-cream-kiosk-on-40a568",
+    "title": "Ice Cream Kiosk on Wheels",
+    "size_m": {
+      "x": 1.99,
+      "y": 2.84,
+      "z": 4
+    },
+    "triangles": 1934,
+    "credit": "Ice Cream Kiosk on Wheels by Polyfork (https://polyfork.dev/asset/ice-cream-kiosk-on-40a568), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/ice-cream-kiosk-on-40a568.glb"
+  },
+  {
+    "id": "roadside-farm-stand-e218ca",
+    "title": "Roadside Farm Stand",
+    "size_m": {
+      "x": 2,
+      "y": 2.46,
+      "z": 2
+    },
+    "triangles": 630,
+    "credit": "Roadside Farm Stand by Polyfork (https://polyfork.dev/asset/roadside-farm-stand-e218ca), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/roadside-farm-stand-e218ca.glb"
+  },
+  {
+    "id": "wrecked-hull-section-ca6755",
+    "title": "Wrecked Hull Section",
+    "size_m": {
+      "x": 2.48,
+      "y": 3.47,
+      "z": 6.7
+    },
+    "triangles": 705,
+    "credit": "Wrecked Hull Section by Polyfork (https://polyfork.dev/asset/wrecked-hull-section-ca6755), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/wrecked-hull-section-ca6755.glb"
+  },
+  {
+    "id": "windpump-tower-1633a9",
+    "title": "Windpump Tower",
+    "size_m": {
+      "x": 2,
+      "y": 7.93,
+      "z": 2
+    },
+    "triangles": 1290,
+    "credit": "Windpump Tower by Polyfork (https://polyfork.dev/asset/windpump-tower-1633a9), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/windpump-tower-1633a9.glb"
+  },
+  {
+    "id": "village-tavern-4e94e3",
+    "title": "Village Tavern",
+    "size_m": {
+      "x": 12.91,
+      "y": 11,
+      "z": 8.41
+    },
+    "triangles": 1996,
+    "credit": "Village Tavern by Polyfork (https://polyfork.dev/asset/village-tavern-4e94e3), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/village-tavern-4e94e3.glb"
+  },
+  {
+    "id": "hay-bale-079e8c",
+    "title": "Hay Bale",
+    "size_m": {
+      "x": 0.94,
+      "y": 0.52,
+      "z": 0.46
+    },
+    "triangles": 582,
+    "credit": "Hay Bale by Polyfork (https://polyfork.dev/asset/hay-bale-079e8c), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/hay-bale-079e8c.glb"
+  },
+  {
+    "id": "split-level-house-40fe1a",
+    "title": "Split-Level House",
+    "size_m": {
+      "x": 12,
+      "y": 7.28,
+      "z": 8
+    },
+    "triangles": 1754,
+    "credit": "Split-Level House by Polyfork (https://polyfork.dev/asset/split-level-house-40fe1a), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/split-level-house-40fe1a.glb"
+  },
+  {
+    "id": "jolly-roger-pole-803c5a",
+    "title": "Jolly Roger Pole",
+    "size_m": {
+      "x": 2.06,
+      "y": 4,
+      "z": 0.67
+    },
+    "triangles": 508,
+    "credit": "Jolly Roger Pole by Polyfork (https://polyfork.dev/asset/jolly-roger-pole-803c5a), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/jolly-roger-pole-803c5a.glb"
+  },
+  {
+    "id": "compact-tractor-35b84b",
+    "title": "Compact Tractor",
+    "size_m": {
+      "x": 1.71,
+      "y": 2,
+      "z": 2.83
+    },
+    "triangles": 3034,
+    "credit": "Compact Tractor by Polyfork (https://polyfork.dev/asset/compact-tractor-35b84b), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/compact-tractor-35b84b.glb"
+  },
+  {
+    "id": "ship-s-longboat-f159fd",
+    "title": "Ship's Longboat",
+    "size_m": {
+      "x": 2.4,
+      "y": 2.8,
+      "z": 6.93
+    },
+    "triangles": 3626,
+    "credit": "Ship's Longboat by Polyfork (https://polyfork.dev/asset/ship-s-longboat-f159fd), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/ship-s-longboat-f159fd.glb"
+  },
+  {
+    "id": "roulette-wheel-f92631",
+    "title": "Roulette Wheel",
+    "size_m": {
+      "x": 0.84,
+      "y": 0.23,
+      "z": 0.84
+    },
+    "triangles": 916,
+    "credit": "Roulette Wheel by Polyfork (https://polyfork.dev/asset/roulette-wheel-f92631), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/roulette-wheel-f92631.glb"
+  },
+  {
+    "id": "two-story-house-40f6dc",
+    "title": "Two-Story House",
+    "size_m": {
+      "x": 5.7,
+      "y": 8.37,
+      "z": 7.66
+    },
+    "triangles": 1554,
+    "credit": "Two-Story House by Polyfork (https://polyfork.dev/asset/two-story-house-40f6dc), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/two-story-house-40f6dc.glb"
+  },
+  {
+    "id": "stilted-granary-3e7d7d",
+    "title": "Stilted Granary",
+    "size_m": {
+      "x": 2,
+      "y": 2.71,
+      "z": 1.99
+    },
+    "triangles": 1424,
+    "credit": "Stilted Granary by Polyfork (https://polyfork.dev/asset/stilted-granary-3e7d7d), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/stilted-granary-3e7d7d.glb"
+  },
+  {
+    "id": "smuggler-cave-mouth-69a07e",
+    "title": "Smuggler Cave Mouth",
+    "size_m": {
+      "x": 5.02,
+      "y": 3.99,
+      "z": 1.88
+    },
+    "triangles": 1027,
+    "credit": "Smuggler Cave Mouth by Polyfork (https://polyfork.dev/asset/smuggler-cave-mouth-69a07e), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/smuggler-cave-mouth-69a07e.glb"
+  },
+  {
+    "id": "country-station-building-2d8f5e",
+    "title": "Country Station Building",
+    "size_m": {
+      "x": 8.44,
+      "y": 10.61,
+      "z": 15.99
+    },
+    "triangles": 1881,
+    "credit": "Country Station Building by Polyfork (https://polyfork.dev/asset/country-station-building-2d8f5e), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/country-station-building-2d8f5e.glb"
+  },
+  {
+    "id": "marigold-pickup-f4b6f9",
+    "title": "Marigold Pickup",
+    "size_m": {
+      "x": 2,
+      "y": 2.2,
+      "z": 4.5
+    },
+    "triangles": 2770,
+    "credit": "Marigold Pickup by Polyfork (https://polyfork.dev/asset/marigold-pickup-f4b6f9), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/marigold-pickup-f4b6f9.glb"
+  },
+  {
+    "id": "old-lighthouse-48ca6c",
+    "title": "Old Lighthouse",
+    "size_m": {
+      "x": 8.85,
+      "y": 13.88,
+      "z": 10.66
+    },
+    "triangles": 2847,
+    "credit": "Old Lighthouse by Polyfork (https://polyfork.dev/asset/old-lighthouse-48ca6c), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/old-lighthouse-48ca6c.glb"
+  },
+  {
+    "id": "caique-fishing-boat-262c24",
+    "title": "Caique Fishing Boat",
+    "size_m": {
+      "x": 2.69,
+      "y": 4.91,
+      "z": 7.32
+    },
+    "triangles": 2636,
+    "credit": "Caique Fishing Boat by Polyfork (https://polyfork.dev/asset/caique-fishing-boat-262c24), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/caique-fishing-boat-262c24.glb"
+  },
+  {
+    "id": "fuel-farm-tank-ed67f0",
+    "title": "Fuel Farm Tank",
+    "size_m": {
+      "x": 16,
+      "y": 13.52,
+      "z": 16
+    },
+    "triangles": 1762,
+    "credit": "Fuel Farm Tank by Polyfork (https://polyfork.dev/asset/fuel-farm-tank-ed67f0), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/fuel-farm-tank-ed67f0.glb"
+  },
+  {
+    "id": "ferris-wheel-ca5b0b",
+    "title": "Ferris Wheel",
+    "size_m": {
+      "x": 16.43,
+      "y": 18,
+      "z": 7.5
+    },
+    "triangles": 3518,
+    "credit": "Ferris Wheel by Polyfork (https://polyfork.dev/asset/ferris-wheel-ca5b0b), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/ferris-wheel-ca5b0b.glb"
+  },
+  {
+    "id": "windmill-3aad49",
+    "title": "Windmill",
+    "size_m": {
+      "x": 5.65,
+      "y": 9.6,
+      "z": 4.18
+    },
+    "triangles": 1842,
+    "credit": "Windmill by Polyfork (https://polyfork.dev/asset/windmill-3aad49), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/windmill-3aad49.glb"
+  },
+  {
+    "id": "sheep-7b0187",
+    "title": "Sheep",
+    "size_m": {
+      "x": 0.64,
+      "y": 1,
+      "z": 1.49
+    },
+    "triangles": 2460,
+    "credit": "Sheep by Polyfork (https://polyfork.dev/asset/sheep-7b0187), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/sheep-7b0187.glb"
+  },
+  {
+    "id": "stone-well-b2dfcd",
+    "title": "Stone Well",
+    "size_m": {
+      "x": 0.97,
+      "y": 1.75,
+      "z": 0.88
+    },
+    "triangles": 600,
+    "credit": "Stone Well by Polyfork (https://polyfork.dev/asset/stone-well-b2dfcd), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/stone-well-b2dfcd.glb"
+  },
+  {
+    "id": "saloon-6dda1c",
+    "title": "Saloon",
+    "size_m": {
+      "x": 6,
+      "y": 6,
+      "z": 8
+    },
+    "triangles": 1394,
+    "credit": "Saloon by Polyfork (https://polyfork.dev/asset/saloon-6dda1c), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/saloon-6dda1c.glb"
+  },
+  {
+    "id": "ox-cart-c12bca",
+    "title": "Ox Cart",
+    "size_m": {
+      "x": 2.02,
+      "y": 1.47,
+      "z": 4.14
+    },
+    "triangles": 1936,
+    "credit": "Ox Cart by Polyfork (https://polyfork.dev/asset/ox-cart-c12bca), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/ox-cart-c12bca.glb"
+  },
+  {
+    "id": "lighthouse-keeper-s-cottage-4f6d33",
+    "title": "Lighthouse Keeper's Cottage",
+    "size_m": {
+      "x": 6.62,
+      "y": 7.74,
+      "z": 6.09
+    },
+    "triangles": 2684,
+    "credit": "Lighthouse Keeper's Cottage by Polyfork (https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/lighthouse-keeper-s-cottage-4f6d33.glb"
+  },
+  {
+    "id": "thatched-cottage-0e63f5",
+    "title": "Thatched Cottage",
+    "size_m": {
+      "x": 6,
+      "y": 5.06,
+      "z": 3.97
+    },
+    "triangles": 1764,
+    "credit": "Thatched Cottage by Polyfork (https://polyfork.dev/asset/thatched-cottage-0e63f5), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/thatched-cottage-0e63f5.glb"
+  },
+  {
+    "id": "pier-head-platform-63662b",
+    "title": "Pier Head Platform",
+    "size_m": {
+      "x": 4,
+      "y": 2.48,
+      "z": 4
+    },
+    "triangles": 1868,
+    "credit": "Pier Head Platform by Polyfork (https://polyfork.dev/asset/pier-head-platform-63662b), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/pier-head-platform-63662b.glb"
+  },
+  {
+    "id": "backyard-garden-shed-38d79f",
+    "title": "Backyard Garden Shed",
+    "size_m": {
+      "x": 4,
+      "y": 4.11,
+      "z": 4
+    },
+    "triangles": 984,
+    "credit": "Backyard Garden Shed by Polyfork (https://polyfork.dev/asset/backyard-garden-shed-38d79f), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/backyard-garden-shed-38d79f.glb"
+  },
+  {
+    "id": "minka-farmhouse-680475",
+    "title": "Minka Farmhouse",
+    "size_m": {
+      "x": 8,
+      "y": 7.27,
+      "z": 6
+    },
+    "triangles": 1560,
+    "credit": "Minka Farmhouse by Polyfork (https://polyfork.dev/asset/minka-farmhouse-680475), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/minka-farmhouse-680475.glb"
+  },
+  {
+    "id": "livery-stable-c01ee0",
+    "title": "Livery Stable",
+    "size_m": {
+      "x": 8,
+      "y": 6.78,
+      "z": 10
+    },
+    "triangles": 1677,
+    "credit": "Livery Stable by Polyfork (https://polyfork.dev/asset/livery-stable-c01ee0), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/livery-stable-c01ee0.glb"
+  },
+  {
+    "id": "vertical-farm-tower-77d887",
+    "title": "Vertical Farm Tower",
+    "size_m": {
+      "x": 8,
+      "y": 21,
+      "z": 8
+    },
+    "triangles": 860,
+    "credit": "Vertical Farm Tower by Polyfork (https://polyfork.dev/asset/vertical-farm-tower-77d887), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/vertical-farm-tower-77d887.glb"
+  },
+  {
+    "id": "porch-front-cottage-620c29",
+    "title": "Porch-Front Cottage",
+    "size_m": {
+      "x": 8,
+      "y": 7.72,
+      "z": 8
+    },
+    "triangles": 1560,
+    "credit": "Porch-Front Cottage by Polyfork (https://polyfork.dev/asset/porch-front-cottage-620c29), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/porch-front-cottage-620c29.glb"
+  },
+  {
+    "id": "tank-steam-locomotive-314bb1",
+    "title": "Tank Steam Locomotive",
+    "size_m": {
+      "x": 2.62,
+      "y": 4.16,
+      "z": 9
+    },
+    "triangles": 3713,
+    "credit": "Tank Steam Locomotive by Polyfork (https://polyfork.dev/asset/tank-steam-locomotive-314bb1), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/tank-steam-locomotive-314bb1.glb"
+  },
+  {
+    "id": "crossing-keeper-s-cottage-de49a4",
+    "title": "Crossing Keeper's Cottage",
+    "size_m": {
+      "x": 8,
+      "y": 6.86,
+      "z": 3.99
+    },
+    "triangles": 2065,
+    "credit": "Crossing Keeper's Cottage by Polyfork (https://polyfork.dev/asset/crossing-keeper-s-cottage-de49a4), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/crossing-keeper-s-cottage-de49a4.glb"
+  },
+  {
+    "id": "mainline-diesel-locomotive-33ef97",
+    "title": "Mainline Diesel Locomotive",
+    "size_m": {
+      "x": 2.81,
+      "y": 4.16,
+      "z": 16
+    },
+    "triangles": 3570,
+    "credit": "Mainline Diesel Locomotive by Polyfork (https://polyfork.dev/asset/mainline-diesel-locomotive-33ef97), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/mainline-diesel-locomotive-33ef97.glb"
+  },
+  {
+    "id": "hotel-b43f66",
+    "title": "Hotel",
+    "size_m": {
+      "x": 6,
+      "y": 7.3,
+      "z": 10
+    },
+    "triangles": 1235,
+    "credit": "Hotel by Polyfork (https://polyfork.dev/asset/hotel-b43f66), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/hotel-b43f66.glb"
+  },
+  {
+    "id": "adobe-colonial-farmhouse-cf13d8",
+    "title": "Adobe Colonial Farmhouse",
+    "size_m": {
+      "x": 16,
+      "y": 5.4,
+      "z": 8
+    },
+    "triangles": 1967,
+    "credit": "Adobe Colonial Farmhouse by Polyfork (https://polyfork.dev/asset/adobe-colonial-farmhouse-cf13d8), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/adobe-colonial-farmhouse-cf13d8.glb"
+  },
+  {
+    "id": "timber-barn-90b3ce",
+    "title": "Timber Barn",
+    "size_m": {
+      "x": 4,
+      "y": 5.35,
+      "z": 6.91
+    },
+    "triangles": 1382,
+    "credit": "Timber Barn by Polyfork (https://polyfork.dev/asset/timber-barn-90b3ce), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/timber-barn-90b3ce.glb"
+  },
+  {
+    "id": "windmill-pump-2993a4",
+    "title": "Windmill Pump",
+    "size_m": {
+      "x": 2.63,
+      "y": 7.26,
+      "z": 3.45
+    },
+    "triangles": 710,
+    "credit": "Windmill Pump by Polyfork (https://polyfork.dev/asset/windmill-pump-2993a4), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/windmill-pump-2993a4.glb"
+  },
+  {
+    "id": "pirate-brigantine-c29c57",
+    "title": "Pirate Brigantine",
+    "size_m": {
+      "x": 16.35,
+      "y": 13.2,
+      "z": 4.89
+    },
+    "triangles": 4044,
+    "credit": "Pirate Brigantine by Polyfork (https://polyfork.dev/asset/pirate-brigantine-c29c57), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/pirate-brigantine-c29c57.glb"
+  },
+  {
+    "id": "cave-house-front-ed6b36",
+    "title": "Cave House Front",
+    "size_m": {
+      "x": 4,
+      "y": 3,
+      "z": 4
+    },
+    "triangles": 1144,
+    "credit": "Cave House Front by Polyfork (https://polyfork.dev/asset/cave-house-front-ed6b36), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/cave-house-front-ed6b36.glb"
+  },
+  {
+    "id": "railbus-e972f3",
+    "title": "Railbus",
+    "size_m": {
+      "x": 2.78,
+      "y": 3.45,
+      "z": 12
+    },
+    "triangles": 3166,
+    "credit": "Railbus by Polyfork (https://polyfork.dev/asset/railbus-e972f3), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/railbus-e972f3.glb"
+  },
+  {
+    "id": "tiered-bell-tower-e1b706",
+    "title": "Tiered Bell Tower",
+    "size_m": {
+      "x": 4,
+      "y": 9.88,
+      "z": 4
+    },
+    "triangles": 1512,
+    "credit": "Tiered Bell Tower by Polyfork (https://polyfork.dev/asset/tiered-bell-tower-e1b706), CC BY 4.0",
+    "license": "CC BY 4.0",
+    "url": "https://polyfork.dev/cdn/tiered-bell-tower-e1b706.glb"
+  }
+]

@@ -1,0 +1,12 @@
+.godot/
+*.apk
+*.aab
+*.keystore
+build/
+*.jks
+*.p12
+*.pfx
+.env
+.env.*
+__pycache__/
+.DS_Store

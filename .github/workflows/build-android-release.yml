@@ -1,0 +1,81 @@
+name: Android signed APK
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: android-${{ github.ref }}
+  cancel-in-progress: false
+env:
+  GODOT_VERSION: '4.4.1'
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+      - name: Install Android SDK
+        run: sdkmanager 'platform-tools' 'build-tools;35.0.0' 'platforms;android-35'
+      - uses: actions/cache@v4
+        id: godot
+        with:
+          path: |
+            ~/.cache/godot-ci
+            ~/.local/share/godot/export_templates/4.4.1.stable
+          key: godot-4.4.1-linux-v2
+      - name: Install Godot and templates
+        if: steps.godot.outputs.cache-hit != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE="https://github.com/godotengine/godot-builds/releases/download/${GODOT_VERSION}-stable"
+          BIN="Godot_v${GODOT_VERSION}-stable_linux.x86_64"
+          TPL="Godot_v${GODOT_VERSION}-stable_export_templates.tpz"
+          mkdir -p ~/.cache/godot-ci ~/.local/share/godot/export_templates/4.4.1.stable
+          curl --retry 3 -fsSL "$BASE/$BIN.zip" -o "$RUNNER_TEMP/$BIN.zip"
+          curl --retry 3 -fsSL "$BASE/$TPL" -o "$RUNNER_TEMP/$TPL"
+          curl --retry 3 -fsSL "$BASE/SHA512-SUMS.txt" -o "$RUNNER_TEMP/SHA512-SUMS.txt"
+          (cd "$RUNNER_TEMP"; sha512sum --ignore-missing -c SHA512-SUMS.txt)
+          unzip -q "$RUNNER_TEMP/$BIN.zip" -d ~/.cache/godot-ci
+          mv ~/.cache/godot-ci/"$BIN" ~/.cache/godot-ci/godot
+          chmod +x ~/.cache/godot-ci/godot
+          unzip -q "$RUNNER_TEMP/$TPL" -d "$RUNNER_TEMP/templates"
+          mv "$RUNNER_TEMP/templates/templates/"* ~/.local/share/godot/export_templates/4.4.1.stable/
+      - name: Configure SDK and version
+        run: python3 scripts/android_ci.py configure
+      - name: Import and test
+        env:
+          GODOT_BIN: /home/runner/.cache/godot-ci/godot
+        run: python3 scripts/check_game.py
+      - name: Sign, export and verify APK
+        env:
+          KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          KEYSTORE_ALIAS: ${{ secrets.ANDROID_KEYSTORE_ALIAS }}
+          KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+        run: python3 scripts/android_ci.py build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Android-release
+          path: |
+            build/*.apk
+            build/SHA256SUMS.txt
+            build/signing-certificate.txt
+          if-no-files-found: error
+      - name: Publish tagged release
+        if: startsWith(github.ref, 'refs/tags/v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" build/*.apk build/SHA256SUMS.txt build/signing-certificate.txt --verify-tag --title "Cờ Tỷ Phú $GITHUB_REF_NAME" --notes 'APK Android arm64, ký bằng khóa release cố định. Smoke/economy/flow và kiểm tra chữ ký đã qua; chưa kiểm thử trên thiết bị Android thật.'
+      - name: Clean signing materials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/monopoly-release.p12"
