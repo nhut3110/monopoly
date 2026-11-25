@@ -11,7 +11,7 @@ def configure():
     code = int(e['GITHUB_RUN_NUMBER'])
     if not 0 < code < 2100000000:
         raise ValueError('Invalid version code')
-    settings = Path.home()/'.config/godot/editor_settings-4.tres'
+    settings = Path.home()/'.config/godot/editor_settings-4.4.tres'
     settings.parent.mkdir(parents=True,exist_ok=True)
     settings.write_text('[gd_resource type="EditorSettings" format=3]\n\n[resource]\nexport/android/java_sdk_path = '+json.dumps(e['JAVA_HOME'])+'\nexport/android/android_sdk_path = '+json.dumps(e['ANDROID_HOME'])+'\n')
     Path(e['RUNNER_TEMP'],'version.json').write_text(json.dumps({'name':version,'code':code}))
